@@ -1,0 +1,101 @@
+{
+  "limits": "One isolated comparison in baseline-then-optimized order. Concurrent native rendering affects wall timings; no repeat campaign or whole-scene speedup claim.",
+  "before": {
+    "label": "TypedArray.from callbacks",
+    "wallMs": 429.583529,
+    "cpuUserMs": 344.275,
+    "cpuSystemMs": 55.662,
+    "packing": {
+      "attributeBytesBefore": 10343804,
+      "attributeBytesAfter": 5171902,
+      "savedBytes": 5171902
+    }
+  },
+  "after": {
+    "label": "direct loops",
+    "wallMs": 118.29604500000005,
+    "cpuUserMs": 149.436,
+    "cpuSystemMs": 6.899,
+    "packing": {
+      "attributeBytesBefore": 10343804,
+      "attributeBytesAfter": 5171902,
+      "savedBytes": 5171902
+    }
+  },
+  "cpuRatio": 2.5582051364057947,
+  "exact": {
+    "geometries": 3,
+    "attributes": 11,
+    "attributeBytes": 9135442,
+    "indexArrays": 3,
+    "allEqual": true
+  },
+  "hashes": [
+    {
+      "geometry": 0,
+      "name": "position",
+      "bytes": 225636,
+      "sha256": "0353087301e3b33ea8fd43ff783d7839fd18371460f9cab9a3ce4b1a714f6b68"
+    },
+    {
+      "geometry": 0,
+      "name": "uv",
+      "bytes": 75212,
+      "sha256": "baaebc3f354f49a437c3adf6c8bbcdabcfe4c3cceba77c155ecd5dfc1d70b67d"
+    },
+    {
+      "geometry": 0,
+      "name": "normal",
+      "bytes": 112818,
+      "sha256": "1790c29f7f727b18e34e60f96ac8d14d26c3dd01524571917057386daf08ba36"
+    },
+    {
+      "geometry": 1,
+      "name": "position",
+      "bytes": 2648484,
+      "sha256": "c2d4bd71cacc0776bd5fd083e1d681ecae3c07238de310e44b6f08f451d5fee7"
+    },
+    {
+      "geometry": 1,
+      "name": "color",
+      "bytes": 1324242,
+      "sha256": "7651d250cf6dc8dc8c17d1053c6e76d4601d03cc023b2e13afeb4cf7930f980f"
+    },
+    {
+      "geometry": 1,
+      "name": "uv",
+      "bytes": 882828,
+      "sha256": "5db84463858062758b0e14b2944b235fbc2b8a5238a71abea3898a3547f4cf0d"
+    },
+    {
+      "geometry": 1,
+      "name": "normal",
+      "bytes": 1324242,
+      "sha256": "56e934574a1ccf07ce2b39a966dce79404be29665fb87e370796fd21a4ed5013"
+    },
+    {
+      "geometry": 2,
+      "name": "position",
+      "bytes": 1089420,
+      "sha256": "4b0cabf6a3e87683cf3523a307b63bad5cca1d5a5f413889c4e81a26aa02b028"
+    },
+    {
+      "geometry": 2,
+      "name": "uv",
+      "bytes": 363140,
+      "sha256": "9fe2018eee13e80a98da893c9a7fc4f2d515e6d3112a10f853a9cd69094d5be0"
+    },
+    {
+      "geometry": 2,
+      "name": "color",
+      "bytes": 544710,
+      "sha256": "47edefd7e163231c64bfb45424ebd522798243a564095e43abdc362d7df5155e"
+    },
+    {
+      "geometry": 2,
+      "name": "normal",
+      "bytes": 544710,
+      "sha256": "ed4c854322ca7ba93b0f5df19607bf381141c8aea2f5f9f2a57ba7442bdd0b03"
+    }
+  ]
+}

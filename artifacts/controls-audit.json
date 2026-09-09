@@ -1,0 +1,14 @@
+{
+  "passed": [
+    "keyboard movement",
+    "release damping",
+    "reset",
+    "drag look",
+    "blur reset",
+    "ground clearance",
+    "world bounds",
+    "two-pointer touch",
+    "disposal"
+  ],
+  "type": "deterministic input unit harness; not browser testing"
+}

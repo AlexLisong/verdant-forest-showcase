@@ -1,0 +1,88 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+/dist/
+/.wrangler/
+/.sites-runtime/
+/outputs/
+/work/
+
+# Reproducible native geometry QA intermediates
+artifacts/scene-data/
+artifacts/qa-modules/
+artifacts/shader-check/
+artifacts/shader-depth/
+artifacts/material-views/
+artifacts/offline-views/
+artifacts/motion-frames/
+*.tsbuildinfo
+
+artifacts/shader-extra/
+artifacts/webgl-shaders/
+artifacts/motion-data/
+scripts/__pycache__/
+
+artifacts/light-study/
+
+# Ongoing native QA run logs and derived motion batches
+artifacts/*-render.log
+artifacts/stationary-data/
+artifacts/stationary-frames/
+artifacts/*.mp4
+artifacts/material-study/
+artifacts/final-details/
+artifacts/stationary-export.log
+artifacts/grass-study-data/
+artifacts/grass-study/
+artifacts/grass-study-export.log
+artifacts/grass-curved-data/
+artifacts/grass-curved-study/
+artifacts/grass-curved-export.log
+
+artifacts/boundary-data/
+artifacts/boundary-study/
+artifacts/boundary-export.log
+
+artifacts/boundary-current-shader/
+
+artifacts/release-data/
+artifacts/release-views/
+artifacts/release-export.log
+
+artifacts/crown-detail-data/
+artifacts/crown-detail-study/
+artifacts/crown-detail-export.log

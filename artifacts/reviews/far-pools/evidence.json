@@ -1,0 +1,43 @@
+{
+  "sourceHash": "9aa1e9f55e2d51c2e35f52141b830ef78af19dd2847f9c6391a1bf00a5cf46bd",
+  "correctness": {
+    "boundaryInstances": 14,
+    "pools": 20,
+    "initialChangedPools": 20
+  },
+  "selection": {
+    "trees": 3808,
+    "cells": 1024,
+    "sourceMeshes": 7248,
+    "states": 20,
+    "totalInstances": 43168,
+    "totalVertices": 1036032
+  },
+  "tradeoff": {
+    "views": 48,
+    "trees": 3808,
+    "cells": 1024,
+    "sourceMeshes": 7248,
+    "original": {
+      "meanDraws": 662.6458333333334,
+      "peakDraws": 776,
+      "meanInstances": 698.375
+    },
+    "pools": {
+      "60": {
+        "allocatedPools": 1506,
+        "meanDraws": 166.125,
+        "peakDraws": 191,
+        "meanInstances": 813.6875,
+        "snapshotMatrixBytes": 487424
+      },
+      "80": {
+        "allocatedPools": 864,
+        "meanDraws": 119.22916666666667,
+        "peakDraws": 170,
+        "meanInstances": 840.875,
+        "snapshotMatrixBytes": 487424
+      }
+    }
+  }
+}

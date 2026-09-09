@@ -1,0 +1,396 @@
+{
+  "views": 48,
+  "checkedInstances": 184028,
+  "allGeometryMaterialMatrixMultisetsIdentical": true,
+  "meanOriginalTreeDraws": 815.6666666666666,
+  "meanPooledTreeDraws": 376.4166666666667,
+  "meanOriginalTreeTriangles": 13504108.854166666,
+  "meanPooledTreeTriangles": 15767572.895833334,
+  "results": [
+    {
+      "i": 0,
+      "instances": 3824,
+      "baselineDraws": 891,
+      "pooledDraws": 375,
+      "baselineTriangles": 15005815,
+      "pooledTriangles": 17058005
+    },
+    {
+      "i": 1,
+      "instances": 3818,
+      "baselineDraws": 809,
+      "pooledDraws": 377,
+      "baselineTriangles": 13132984,
+      "pooledTriangles": 15698896
+    },
+    {
+      "i": 2,
+      "instances": 3816,
+      "baselineDraws": 747,
+      "pooledDraws": 342,
+      "baselineTriangles": 12078652,
+      "pooledTriangles": 13430605
+    },
+    {
+      "i": 3,
+      "instances": 3756,
+      "baselineDraws": 723,
+      "pooledDraws": 352,
+      "baselineTriangles": 12362716,
+      "pooledTriangles": 14225684
+    },
+    {
+      "i": 4,
+      "instances": 3828,
+      "baselineDraws": 816,
+      "pooledDraws": 396,
+      "baselineTriangles": 13041807,
+      "pooledTriangles": 15891976
+    },
+    {
+      "i": 5,
+      "instances": 3936,
+      "baselineDraws": 874,
+      "pooledDraws": 396,
+      "baselineTriangles": 15120882,
+      "pooledTriangles": 16747902
+    },
+    {
+      "i": 6,
+      "instances": 3890,
+      "baselineDraws": 764,
+      "pooledDraws": 378,
+      "baselineTriangles": 13682141,
+      "pooledTriangles": 16356961
+    },
+    {
+      "i": 7,
+      "instances": 3742,
+      "baselineDraws": 720,
+      "pooledDraws": 340,
+      "baselineTriangles": 12217965,
+      "pooledTriangles": 13275268
+    },
+    {
+      "i": 8,
+      "instances": 3774,
+      "baselineDraws": 745,
+      "pooledDraws": 355,
+      "baselineTriangles": 12018418,
+      "pooledTriangles": 13341160
+    },
+    {
+      "i": 9,
+      "instances": 3930,
+      "baselineDraws": 820,
+      "pooledDraws": 385,
+      "baselineTriangles": 13789695,
+      "pooledTriangles": 16041301
+    },
+    {
+      "i": 10,
+      "instances": 3906,
+      "baselineDraws": 837,
+      "pooledDraws": 371,
+      "baselineTriangles": 13602191,
+      "pooledTriangles": 15559218
+    },
+    {
+      "i": 11,
+      "instances": 3708,
+      "baselineDraws": 746,
+      "pooledDraws": 334,
+      "baselineTriangles": 11580556,
+      "pooledTriangles": 13479146
+    },
+    {
+      "i": 12,
+      "instances": 3756,
+      "baselineDraws": 702,
+      "pooledDraws": 352,
+      "baselineTriangles": 12194081,
+      "pooledTriangles": 14866513
+    },
+    {
+      "i": 13,
+      "instances": 3906,
+      "baselineDraws": 802,
+      "pooledDraws": 391,
+      "baselineTriangles": 12876957,
+      "pooledTriangles": 15320426
+    },
+    {
+      "i": 14,
+      "instances": 3890,
+      "baselineDraws": 836,
+      "pooledDraws": 377,
+      "baselineTriangles": 13663794,
+      "pooledTriangles": 15720068
+    },
+    {
+      "i": 15,
+      "instances": 3770,
+      "baselineDraws": 820,
+      "pooledDraws": 364,
+      "baselineTriangles": 13824960,
+      "pooledTriangles": 16380362
+    },
+    {
+      "i": 16,
+      "instances": 3794,
+      "baselineDraws": 813,
+      "pooledDraws": 386,
+      "baselineTriangles": 13716816,
+      "pooledTriangles": 16503092
+    },
+    {
+      "i": 17,
+      "instances": 3858,
+      "baselineDraws": 870,
+      "pooledDraws": 387,
+      "baselineTriangles": 15285753,
+      "pooledTriangles": 17638701
+    },
+    {
+      "i": 18,
+      "instances": 3856,
+      "baselineDraws": 859,
+      "pooledDraws": 406,
+      "baselineTriangles": 13797505,
+      "pooledTriangles": 16872607
+    },
+    {
+      "i": 19,
+      "instances": 3850,
+      "baselineDraws": 891,
+      "pooledDraws": 397,
+      "baselineTriangles": 14207044,
+      "pooledTriangles": 16907471
+    },
+    {
+      "i": 20,
+      "instances": 3826,
+      "baselineDraws": 901,
+      "pooledDraws": 384,
+      "baselineTriangles": 14556285,
+      "pooledTriangles": 16899979
+    },
+    {
+      "i": 21,
+      "instances": 3826,
+      "baselineDraws": 925,
+      "pooledDraws": 381,
+      "baselineTriangles": 15169786,
+      "pooledTriangles": 18039916
+    },
+    {
+      "i": 22,
+      "instances": 3774,
+      "baselineDraws": 928,
+      "pooledDraws": 382,
+      "baselineTriangles": 15167253,
+      "pooledTriangles": 17828426
+    },
+    {
+      "i": 23,
+      "instances": 3816,
+      "baselineDraws": 915,
+      "pooledDraws": 390,
+      "baselineTriangles": 14885660,
+      "pooledTriangles": 17015766
+    },
+    {
+      "i": 24,
+      "instances": 3920,
+      "baselineDraws": 865,
+      "pooledDraws": 399,
+      "baselineTriangles": 14461423,
+      "pooledTriangles": 16973862
+    },
+    {
+      "i": 25,
+      "instances": 3822,
+      "baselineDraws": 808,
+      "pooledDraws": 386,
+      "baselineTriangles": 13108922,
+      "pooledTriangles": 16012882
+    },
+    {
+      "i": 26,
+      "instances": 3764,
+      "baselineDraws": 823,
+      "pooledDraws": 371,
+      "baselineTriangles": 13213352,
+      "pooledTriangles": 14986666
+    },
+    {
+      "i": 27,
+      "instances": 3794,
+      "baselineDraws": 860,
+      "pooledDraws": 394,
+      "baselineTriangles": 14048441,
+      "pooledTriangles": 16477079
+    },
+    {
+      "i": 28,
+      "instances": 3940,
+      "baselineDraws": 832,
+      "pooledDraws": 369,
+      "baselineTriangles": 13662595,
+      "pooledTriangles": 16394599
+    },
+    {
+      "i": 29,
+      "instances": 3884,
+      "baselineDraws": 779,
+      "pooledDraws": 376,
+      "baselineTriangles": 13129114,
+      "pooledTriangles": 14664047
+    },
+    {
+      "i": 30,
+      "instances": 3768,
+      "baselineDraws": 686,
+      "pooledDraws": 346,
+      "baselineTriangles": 12069427,
+      "pooledTriangles": 14017382
+    },
+    {
+      "i": 31,
+      "instances": 3764,
+      "baselineDraws": 752,
+      "pooledDraws": 344,
+      "baselineTriangles": 12980405,
+      "pooledTriangles": 14396609
+    },
+    {
+      "i": 32,
+      "instances": 3938,
+      "baselineDraws": 895,
+      "pooledDraws": 413,
+      "baselineTriangles": 14084636,
+      "pooledTriangles": 16833077
+    },
+    {
+      "i": 33,
+      "instances": 3926,
+      "baselineDraws": 850,
+      "pooledDraws": 378,
+      "baselineTriangles": 14063545,
+      "pooledTriangles": 16041934
+    },
+    {
+      "i": 34,
+      "instances": 3796,
+      "baselineDraws": 762,
+      "pooledDraws": 392,
+      "baselineTriangles": 12463986,
+      "pooledTriangles": 14540072
+    },
+    {
+      "i": 35,
+      "instances": 3788,
+      "baselineDraws": 773,
+      "pooledDraws": 393,
+      "baselineTriangles": 12476128,
+      "pooledTriangles": 14737978
+    },
+    {
+      "i": 36,
+      "instances": 3848,
+      "baselineDraws": 805,
+      "pooledDraws": 355,
+      "baselineTriangles": 14039063,
+      "pooledTriangles": 15638654
+    },
+    {
+      "i": 37,
+      "instances": 3846,
+      "baselineDraws": 884,
+      "pooledDraws": 401,
+      "baselineTriangles": 14485344,
+      "pooledTriangles": 17387504
+    },
+    {
+      "i": 38,
+      "instances": 3836,
+      "baselineDraws": 831,
+      "pooledDraws": 373,
+      "baselineTriangles": 13295929,
+      "pooledTriangles": 15513377
+    },
+    {
+      "i": 39,
+      "instances": 3812,
+      "baselineDraws": 735,
+      "pooledDraws": 359,
+      "baselineTriangles": 12183808,
+      "pooledTriangles": 14636349
+    },
+    {
+      "i": 40,
+      "instances": 3818,
+      "baselineDraws": 724,
+      "pooledDraws": 352,
+      "baselineTriangles": 12214709,
+      "pooledTriangles": 14637330
+    },
+    {
+      "i": 41,
+      "instances": 3810,
+      "baselineDraws": 806,
+      "pooledDraws": 375,
+      "baselineTriangles": 13792725,
+      "pooledTriangles": 15489854
+    },
+    {
+      "i": 42,
+      "instances": 3866,
+      "baselineDraws": 838,
+      "pooledDraws": 384,
+      "baselineTriangles": 13727964,
+      "pooledTriangles": 16692169
+    },
+    {
+      "i": 43,
+      "instances": 3908,
+      "baselineDraws": 892,
+      "pooledDraws": 388,
+      "baselineTriangles": 15146212,
+      "pooledTriangles": 17193963
+    },
+    {
+      "i": 44,
+      "instances": 3834,
+      "baselineDraws": 775,
+      "pooledDraws": 382,
+      "baselineTriangles": 12349574,
+      "pooledTriangles": 14873052
+    },
+    {
+      "i": 45,
+      "instances": 3766,
+      "baselineDraws": 743,
+      "pooledDraws": 370,
+      "baselineTriangles": 12070179,
+      "pooledTriangles": 14142818
+    },
+    {
+      "i": 46,
+      "instances": 3796,
+      "baselineDraws": 816,
+      "pooledDraws": 390,
+      "baselineTriangles": 14124642,
+      "pooledTriangles": 15926893
+    },
+    {
+      "i": 47,
+      "instances": 3934,
+      "baselineDraws": 864,
+      "pooledDraws": 380,
+      "baselineTriangles": 14025386,
+      "pooledTriangles": 17535900
+    }
+  ],
+  "limits": "Actual application scene CPU membership/frustum audit, same geometry and camera in both conditions; no browser or FPS measurement."
+}

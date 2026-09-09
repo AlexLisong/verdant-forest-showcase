@@ -1,0 +1,112 @@
+{
+  "public/textures": {
+    "textures": [
+      {
+        "name": "bark-color.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 2112083,
+        "rgbaWithMipBytes": 22369621
+      },
+      {
+        "name": "bark-normal.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 2457380,
+        "rgbaWithMipBytes": 22369621
+      },
+      {
+        "name": "endgrain.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 232145,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "ground-color.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 2294122,
+        "rgbaWithMipBytes": 22369621
+      },
+      {
+        "name": "ground-normal.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 4019907,
+        "rgbaWithMipBytes": 22369621
+      },
+      {
+        "name": "rock-color.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 2231941,
+        "rgbaWithMipBytes": 22369621
+      },
+      {
+        "name": "rock-normal.jpg",
+        "width": 2048,
+        "height": 2048,
+        "fileBytes": 1974789,
+        "rgbaWithMipBytes": 22369621
+      }
+    ],
+    "fileBytes": 15322367,
+    "rgbaWithMipBytes": 139810131
+  },
+  "public/textures/mobile": {
+    "textures": [
+      {
+        "name": "bark-color.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 356376,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "bark-normal.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 407254,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "endgrain.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 96262,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "ground-color.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 572510,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "ground-normal.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 1115367,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "rock-color.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 478728,
+        "rgbaWithMipBytes": 5592405
+      },
+      {
+        "name": "rock-normal.jpg",
+        "width": 1024,
+        "height": 1024,
+        "fileBytes": 477704,
+        "rgbaWithMipBytes": 5592405
+      }
+    ],
+    "fileBytes": 3504201,
+    "rgbaWithMipBytes": 39146835
+  }
+}

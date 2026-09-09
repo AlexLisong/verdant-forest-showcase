@@ -1,0 +1,37 @@
+{
+  "coarse": true,
+  "packing": {
+    "attributeBytesBefore": 42260164,
+    "attributeBytesAfter": 21130082,
+    "savedBytes": 21130082
+  },
+  "vegetationSeconds": 31.327533973999998,
+  "totalConstructionSeconds": 37.149105721000005,
+  "geometryCount": 5593,
+  "materialCount": 22,
+  "uniqueBufferBytes": 227033656,
+  "compactBytes": 34632690,
+  "compactInstances": 1154423,
+  "fullMatrixEquivalentBytes": 87736148,
+  "otherInstanceBytes": 18891056,
+  "trees": 3808,
+  "grass": 1154423,
+  "ferns": 26382,
+  "shrubs": 3160,
+  "herbs": 27500,
+  "ivyClimbers": 78,
+  "ivyLeaves": 4433,
+  "bracketClusters": 41,
+  "mossShoots": 124480,
+  "rootSystems": 356,
+  "twigs": 2100,
+  "acorns": 850,
+  "processMemory": {
+    "rss": 595054592,
+    "heapTotal": 246575104,
+    "heapUsed": 164567408,
+    "external": 285312833,
+    "arrayBuffers": 278856227
+  },
+  "limits": "Node CPU construction and raw typed-array memory only; excludes browser, driver, textures and render targets."
+}

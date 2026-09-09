@@ -1,0 +1,21 @@
+{
+  "project_id": "appgprj_6a9b607a34b48191b690fe8921b630db",
+  "version_id": "appgprj_6a9b607a34b48191b690fe8921b630db~appgver_22cc4f232d7c8191a01fbbebefa646c2",
+  "version_number": 1,
+  "commit_sha": "441d09da462c3a116d266831c19bb026459cfbe8",
+  "deployment_id": "appgdep_6a9bb8089f208191b69103212768dc02",
+  "status": "succeeded",
+  "url": "https://verdant-forest.lexn8.chatgpt.site",
+  "deployed_at": "2026-09-05T06:35:03.428888+00:00",
+  "access_mode": "public",
+  "access_revision": 2,
+  "archive": {
+    "archive_format": "tar",
+    "content_hash": "sha256:0ed8c3cbf281bc8138bbaf2d4b8b4b4a0e13ed061073f1bbf4de20b94a8666cc",
+    "file_count": 46,
+    "sediment_file_id": "file_00000000509081fd89e496c76dbe0f64",
+    "size_bytes": 22640640
+  },
+  "browser_graphics_verified": false,
+  "browser_limitation": "Provided browser disables WebGL; native shader/image audits are not browser FPS measurements."
+}

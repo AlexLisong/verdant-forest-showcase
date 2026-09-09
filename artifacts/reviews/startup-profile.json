@@ -1,0 +1,440 @@
+{
+  "createdAt": "2026-09-05T04:56:52.630Z",
+  "limits": "One Node CPU construction with inert textures; concurrent native rendering can change wall time. CPU time excludes scheduling delays. No browser load time, GPU timing or FPS measured.",
+  "environment": {
+    "node": "v24.19.0",
+    "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+    "logicalCPUs": 9,
+    "loadBefore": [
+      20.31,
+      16.99,
+      14.46
+    ],
+    "loadAfter": [
+      21,
+      18.24,
+      15.13
+    ]
+  },
+  "overall": {
+    "wallMs": 80444.659266,
+    "cpuUserMs": 35819.98,
+    "cpuSystemMs": 7325.983
+  },
+  "stages": [
+    {
+      "label": "ground",
+      "wallMs": 1527.8697630000001,
+      "cpuUserMs": 493.938,
+      "cpuSystemMs": 293.37
+    },
+    {
+      "label": "rocks",
+      "wallMs": 135.57994400000007,
+      "cpuUserMs": 102.528,
+      "cpuSystemMs": 13.497
+    },
+    {
+      "label": "litter",
+      "wallMs": 38.200726999999915,
+      "cpuUserMs": 34.461,
+      "cpuSystemMs": 1.248
+    },
+    {
+      "label": "mushrooms",
+      "wallMs": 32.50305800000024,
+      "cpuUserMs": 6.05,
+      "cpuSystemMs": 0.469
+    },
+    {
+      "label": "vegetation",
+      "wallMs": 54881.259613,
+      "cpuUserMs": 25612.186,
+      "cpuSystemMs": 5360.924
+    },
+    {
+      "label": "deadwood",
+      "wallMs": 588.6999359999973,
+      "cpuUserMs": 459.9,
+      "cpuSystemMs": 29.756
+    },
+    {
+      "label": "forestDetails",
+      "wallMs": 16558.726103,
+      "cpuUserMs": 6194.833,
+      "cpuSystemMs": 1022.003
+    },
+    {
+      "label": "finalPacking",
+      "wallMs": 6645.531185999993,
+      "cpuUserMs": 2907.608,
+      "cpuSystemMs": 597.267
+    }
+  ],
+  "vegetationStages": [
+    {
+      "label": "treeBankAndPacking",
+      "wallMs": 31474.096928,
+      "cpuUserMs": 13051.732,
+      "cpuSystemMs": 3594.807
+    },
+    {
+      "label": "treePlacementAndInstances",
+      "wallMs": 523.5205550000028,
+      "cpuUserMs": 398.21,
+      "cpuSystemMs": 57.603
+    },
+    {
+      "label": "plantGrids",
+      "wallMs": 3.814414000000397,
+      "cpuUserMs": 4.926,
+      "cpuSystemMs": 0
+    },
+    {
+      "label": "plantGeometryBankAndPacking",
+      "wallMs": 4763.221190999997,
+      "cpuUserMs": 2249.867,
+      "cpuSystemMs": 529.816
+    },
+    {
+      "label": "plantPlacementAndInstances",
+      "wallMs": 18116.374266,
+      "cpuUserMs": 9906.808,
+      "cpuSystemMs": 1178.617
+    }
+  ],
+  "calls": [
+    {
+      "label": "tree",
+      "wallMs": 2745.449585,
+      "cpuUserMs": 892.683,
+      "cpuSystemMs": 249.461,
+      "seed": 215,
+      "species": "oak",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 915.3374920000006,
+      "cpuUserMs": 299.731,
+      "cpuSystemMs": 43.519,
+      "seed": 215,
+      "species": "oak",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 333.0156879999995,
+      "cpuUserMs": 217.338,
+      "cpuSystemMs": 25.908,
+      "seed": 215,
+      "species": "oak",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 2380.166279,
+      "cpuUserMs": 892.578,
+      "cpuSystemMs": 165.008
+    },
+    {
+      "label": "tree",
+      "wallMs": 1418.5062829999988,
+      "cpuUserMs": 588.922,
+      "cpuSystemMs": 241.749,
+      "seed": 1034,
+      "species": "beech",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 700.5255680000009,
+      "cpuUserMs": 327.379,
+      "cpuSystemMs": 47.435,
+      "seed": 1034,
+      "species": "beech",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 396.2586770000016,
+      "cpuUserMs": 179.083,
+      "cpuSystemMs": 28.489,
+      "seed": 1034,
+      "species": "beech",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 1635.3899110000002,
+      "cpuUserMs": 493.664,
+      "cpuSystemMs": 114.584
+    },
+    {
+      "label": "tree",
+      "wallMs": 2355.874540999999,
+      "cpuUserMs": 684.147,
+      "cpuSystemMs": 255.958,
+      "seed": 1853,
+      "species": "oak",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 1598.8435739999986,
+      "cpuUserMs": 787.399,
+      "cpuSystemMs": 190.176,
+      "seed": 1853,
+      "species": "oak",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 255.82896600000095,
+      "cpuUserMs": 154.017,
+      "cpuSystemMs": 33.844,
+      "seed": 1853,
+      "species": "oak",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 1696.3964209999976,
+      "cpuUserMs": 614.741,
+      "cpuSystemMs": 174.86
+    },
+    {
+      "label": "tree",
+      "wallMs": 1992.5753470000018,
+      "cpuUserMs": 585.993,
+      "cpuSystemMs": 230.783,
+      "seed": 2672,
+      "species": "birch",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 532.2390010000017,
+      "cpuUserMs": 194.477,
+      "cpuSystemMs": 49.093,
+      "seed": 2672,
+      "species": "birch",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 415.3745049999998,
+      "cpuUserMs": 184.751,
+      "cpuSystemMs": 12.479,
+      "seed": 2672,
+      "species": "birch",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 1854.6050369999975,
+      "cpuUserMs": 569.975,
+      "cpuSystemMs": 335.676
+    },
+    {
+      "label": "tree",
+      "wallMs": 1093.3781869999984,
+      "cpuUserMs": 432.999,
+      "cpuSystemMs": 135.086,
+      "seed": 3491,
+      "species": "oak",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 467.9264649999968,
+      "cpuUserMs": 191.8,
+      "cpuSystemMs": 40.502,
+      "seed": 3491,
+      "species": "oak",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 332.54786100000274,
+      "cpuUserMs": 160.313,
+      "cpuSystemMs": 1.277,
+      "seed": 3491,
+      "species": "oak",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 983.2913460000018,
+      "cpuUserMs": 361.255,
+      "cpuSystemMs": 113.932
+    },
+    {
+      "label": "tree",
+      "wallMs": 880.7548410000018,
+      "cpuUserMs": 335.373,
+      "cpuSystemMs": 109.551,
+      "seed": 4310,
+      "species": "beech",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 1215.104686999999,
+      "cpuUserMs": 375.467,
+      "cpuSystemMs": 100.101,
+      "seed": 4310,
+      "species": "beech",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 325.9798370000026,
+      "cpuUserMs": 167.77,
+      "cpuSystemMs": 37.258,
+      "seed": 4310,
+      "species": "beech",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 1005.2079050000029,
+      "cpuUserMs": 640.29,
+      "cpuSystemMs": 204.108
+    },
+    {
+      "label": "tree",
+      "wallMs": 684.8896449999993,
+      "cpuUserMs": 471.975,
+      "cpuSystemMs": 117.824,
+      "seed": 5129,
+      "species": "oak",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 609.9822800000002,
+      "cpuUserMs": 436.842,
+      "cpuSystemMs": 97.017,
+      "seed": 5129,
+      "species": "oak",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 210.02591699999903,
+      "cpuUserMs": 151.727,
+      "cpuSystemMs": 12.799,
+      "seed": 5129,
+      "species": "oak",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 422.1180889999996,
+      "cpuUserMs": 279.082,
+      "cpuSystemMs": 101.991
+    },
+    {
+      "label": "tree",
+      "wallMs": 400.0302569999985,
+      "cpuUserMs": 286.1,
+      "cpuSystemMs": 74.136,
+      "seed": 5948,
+      "species": "birch",
+      "detail": "high"
+    },
+    {
+      "label": "tree",
+      "wallMs": 243.05859899999632,
+      "cpuUserMs": 179.456,
+      "cpuSystemMs": 34.554,
+      "seed": 5948,
+      "species": "birch",
+      "detail": "medium"
+    },
+    {
+      "label": "tree",
+      "wallMs": 193.75180900000123,
+      "cpuUserMs": 146.597,
+      "cpuSystemMs": 16.588,
+      "seed": 5948,
+      "species": "birch",
+      "detail": "low"
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 1024.1499350000013,
+      "cpuUserMs": 678.08,
+      "cpuSystemMs": 190.039
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 253.31467600000178,
+      "cpuUserMs": 87.59,
+      "cpuSystemMs": 36.298
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 309.1942249999993,
+      "cpuUserMs": 117.821,
+      "cpuSystemMs": 21.787
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 223.42331900000136,
+      "cpuUserMs": 95.76,
+      "cpuSystemMs": 25.037
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 862.6925919999994,
+      "cpuUserMs": 147.717,
+      "cpuSystemMs": 105.953
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 441.6923400000014,
+      "cpuUserMs": 166.722,
+      "cpuSystemMs": 52.812
+    },
+    {
+      "label": "trunkLife",
+      "wallMs": 5802.69798099999,
+      "cpuUserMs": 2567.225,
+      "cpuSystemMs": 540.044
+    },
+    {
+      "label": "packGeometries",
+      "wallMs": 6632.040234999993,
+      "cpuUserMs": 2898.519,
+      "cpuSystemMs": 586.389
+    }
+  ],
+  "stats": {
+    "trees": 2002,
+    "grass": 2529528,
+    "ferns": 39598,
+    "shrubs": 4341,
+    "herbs": 43953,
+    "ivyClimbers": 128,
+    "ivyLeaves": 7602,
+    "bracketClusters": 56,
+    "mossShoots": 214735,
+    "rootSystems": 356,
+    "twigs": 4000,
+    "acorns": 850
+  },
+  "packing": {
+    "attributeBytesBefore": 47104296,
+    "attributeBytesAfter": 23552148,
+    "savedBytes": 23552148
+  },
+  "memory": {
+    "rss": 672849920,
+    "heapTotal": 257646592,
+    "heapUsed": 139727424,
+    "external": 337217645,
+    "arrayBuffers": 330761039
+  }
+}

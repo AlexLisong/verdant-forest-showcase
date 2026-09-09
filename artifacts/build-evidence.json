@@ -1,0 +1,10 @@
+{
+  "observedAtUTC": "2026-09-05T06:24:07Z",
+  "command": "node /root/.codex/plugins/cache/openai-curated-remote/sites/0.1.51/scripts/build-site.mjs",
+  "exitCode": 0,
+  "forestSourceSha256": "3a80e26f1fe55597298bb38dcc0d577b89f7ad255ae51da73ded304d3a67055c",
+  "typescript": true,
+  "cameraChecks": 9,
+  "nativeShaderPrograms": 27,
+  "browserGraphicsVerified": false
+}

@@ -1,0 +1,2700 @@
+{
+  "roots": 2617420,
+  "intersections": 0,
+  "examples": [],
+  "windShapes": 384,
+  "vertices": 5342853,
+  "envelopeBoundaryVertices": 0,
+  "windViolations": 0,
+  "shapeResults": [
+    {
+      "name": "beech-wood-1034",
+      "kind": "wood",
+      "vertices": 17597,
+      "radius": 12.121663724805815,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-wood-1034",
+      "kind": "wood",
+      "vertices": 13015,
+      "radius": 12.121663724805815,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-wood-1034",
+      "kind": "wood",
+      "vertices": 3817,
+      "radius": 12.121663724805815,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-1034",
+      "kind": "leaf",
+      "vertices": 337855,
+      "radius": 8.657945254913386,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-1034",
+      "kind": "leaf",
+      "vertices": 77670,
+      "radius": 8.657945254913386,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-1034",
+      "kind": "leaf",
+      "vertices": 31068,
+      "radius": 8.657945254913386,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-5129",
+      "kind": "wood",
+      "vertices": 17683,
+      "radius": 10.830220812870374,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-5129",
+      "kind": "wood",
+      "vertices": 12896,
+      "radius": 10.830220812870374,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-5129",
+      "kind": "wood",
+      "vertices": 3900,
+      "radius": 10.830220812870374,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-5129",
+      "kind": "leaf",
+      "vertices": 327062,
+      "radius": 10.473350175560356,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-5129",
+      "kind": "leaf",
+      "vertices": 75190,
+      "radius": 10.473350175560356,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-5129",
+      "kind": "leaf",
+      "vertices": 30076,
+      "radius": 10.473350175560356,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-3491",
+      "kind": "wood",
+      "vertices": 17631,
+      "radius": 12.694419902907184,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-3491",
+      "kind": "wood",
+      "vertices": 12867,
+      "radius": 12.694419902907184,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-3491",
+      "kind": "wood",
+      "vertices": 3871,
+      "radius": 12.694419902907184,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-3491",
+      "kind": "leaf",
+      "vertices": 326598,
+      "radius": 8.638234386166816,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-3491",
+      "kind": "leaf",
+      "vertices": 75080,
+      "radius": 8.638234386166816,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-3491",
+      "kind": "leaf",
+      "vertices": 30032,
+      "radius": 8.638234386166816,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-5948",
+      "kind": "wood",
+      "vertices": 16844,
+      "radius": 10.069536587804715,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-5948",
+      "kind": "wood",
+      "vertices": 12469,
+      "radius": 10.069536587804715,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-5948",
+      "kind": "wood",
+      "vertices": 3583,
+      "radius": 10.069536587804715,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-5948",
+      "kind": "leaf",
+      "vertices": 326946,
+      "radius": 8.059419575647645,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-5948",
+      "kind": "leaf",
+      "vertices": 75160,
+      "radius": 8.059419575647645,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-5948",
+      "kind": "leaf",
+      "vertices": 30064,
+      "radius": 8.059419575647645,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-wood-4310",
+      "kind": "wood",
+      "vertices": 17597,
+      "radius": 12.056214786187711,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-wood-4310",
+      "kind": "wood",
+      "vertices": 13009,
+      "radius": 12.056214786187711,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-wood-4310",
+      "kind": "wood",
+      "vertices": 3811,
+      "radius": 12.056214786187711,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-4310",
+      "kind": "leaf",
+      "vertices": 337855,
+      "radius": 8.470208263070141,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-4310",
+      "kind": "leaf",
+      "vertices": 77670,
+      "radius": 8.470208263070141,
+      "maxExcess": 0
+    },
+    {
+      "name": "beech-leaves-4310",
+      "kind": "leaf",
+      "vertices": 31068,
+      "radius": 8.470208263070141,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-215",
+      "kind": "wood",
+      "vertices": 18803,
+      "radius": 11.224741306771579,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-215",
+      "kind": "wood",
+      "vertices": 13726,
+      "radius": 11.224741306771579,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-215",
+      "kind": "wood",
+      "vertices": 4134,
+      "radius": 11.224741306771579,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-215",
+      "kind": "leaf",
+      "vertices": 349115,
+      "radius": 9.06672943943978,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-215",
+      "kind": "leaf",
+      "vertices": 80260,
+      "radius": 9.06672943943978,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-215",
+      "kind": "leaf",
+      "vertices": 32104,
+      "radius": 9.06672943943978,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-2672",
+      "kind": "wood",
+      "vertices": 17391,
+      "radius": 10.430169619704417,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-2672",
+      "kind": "wood",
+      "vertices": 12867,
+      "radius": 10.430169619704417,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-wood-2672",
+      "kind": "wood",
+      "vertices": 3683,
+      "radius": 10.430169619704417,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-2672",
+      "kind": "leaf",
+      "vertices": 337855,
+      "radius": 7.34470557218962,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-2672",
+      "kind": "leaf",
+      "vertices": 77670,
+      "radius": 7.34470557218962,
+      "maxExcess": 0
+    },
+    {
+      "name": "birch-leaves-2672",
+      "kind": "leaf",
+      "vertices": 31068,
+      "radius": 7.34470557218962,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-1853",
+      "kind": "wood",
+      "vertices": 17399,
+      "radius": 11.911668907610977,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-1853",
+      "kind": "wood",
+      "vertices": 12768,
+      "radius": 11.911668907610977,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-wood-1853",
+      "kind": "wood",
+      "vertices": 3805,
+      "radius": 11.911668907610977,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-1853",
+      "kind": "leaf",
+      "vertices": 326598,
+      "radius": 9.730427161892857,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-1853",
+      "kind": "leaf",
+      "vertices": 75080,
+      "radius": 9.730427161892857,
+      "maxExcess": 0
+    },
+    {
+      "name": "oak-leaves-1853",
+      "kind": "leaf",
+      "vertices": 30032,
+      "radius": 9.730427161892857,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 90785,
+      "radius": 1.0212381181367851,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 8174,
+      "radius": 1.0200432971390971,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 1869,
+      "radius": 1.019717302818201,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 11267,
+      "radius": 1.1812248361236573,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 1963,
+      "radius": 1.2605608485971498,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 450,
+      "radius": 0.25578003461076787,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 101010,
+      "radius": 1.1348682939613777,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 9100,
+      "radius": 1.13277401795043,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 2068,
+      "radius": 1.132062368528794,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 8750,
+      "radius": 1.217795062028226,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 1523,
+      "radius": 1.3388100632562345,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 986,
+      "radius": 0.3255103265925247,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 102036,
+      "radius": 1.1265228158156197,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 9064,
+      "radius": 1.1249705867456758,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 2017,
+      "radius": 1.1243419114291973,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 8750,
+      "radius": 0.9936904605100197,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "shrub",
+      "vertices": 1523,
+      "radius": 1.0319019941188203,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 858,
+      "radius": 0.43754198987624265,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 80432,
+      "radius": 1.114660873306292,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 7280,
+      "radius": 1.1143049295817176,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "fern",
+      "vertices": 1674,
+      "radius": 1.1138442023461832,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 1391,
+      "radius": 0.4338846374096482,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 555,
+      "radius": 0.2942886914428742,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "grass",
+      "vertices": 162,
+      "radius": 0.05773883508602323,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 2.4786065988937667,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 2.3743569647012097,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 1.6301092806990487,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 1.5534889459433494,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.1445071543629997,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.1000788186237345,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8208,
+      "radius": 2.8298003845031316,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2123,
+      "radius": 2.715129836095159,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6156,
+      "radius": 2.41206488102667,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1466,
+      "radius": 2.316135168001376,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.1040042790070994,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 0.9999249830491281,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2592,
+      "radius": 2.017576210900963,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 697,
+      "radius": 1.9676057670009006,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3240,
+      "radius": 1.0676162693048052,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 745,
+      "radius": 0.9698987317876695,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 2.5983950028300886,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 2.5768175129525823,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.6789306238839217,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.651573579798371,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5832,
+      "radius": 1.6746679409130352,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1442,
+      "radius": 1.6068057392296755,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.5824785814156277,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.4699374512055563,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2916,
+      "radius": 1.9508211288849449,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 721,
+      "radius": 1.9402038522619605,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6372,
+      "radius": 2.4515129761070518,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1482,
+      "radius": 2.3800353425189793,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5832,
+      "radius": 2.408946761753009,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1442,
+      "radius": 2.3359221478677688,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 1.6471388310004362,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 1.5579922794356664,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 2.2961536379894683,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 2.2159330754439317,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9180,
+      "radius": 2.3195485475560917,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2195,
+      "radius": 2.249908946233972,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.4585129581208873,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.4033605899496715,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 2.2893089863236527,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 2.338511147832422,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.486995233131331,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.441843575786698,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8532,
+      "radius": 2.5420357407854484,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2147,
+      "radius": 2.4254647169452115,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5940,
+      "radius": 2.0936705350204345,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1450,
+      "radius": 2.006406806976823,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.2705308886338673,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.2866830331563426,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.2361129760066776,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.1344360043729025,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.7647693957845565,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.740023721249658,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5832,
+      "radius": 1.334988632502249,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1442,
+      "radius": 1.2201911960354208,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3132,
+      "radius": 2.103956297654591,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 737,
+      "radius": 2.0673883218279845,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 2.464276250871501,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 2.378982484915052,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6156,
+      "radius": 2.313572168826096,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1466,
+      "radius": 2.2785928296224593,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9072,
+      "radius": 2.483200396225495,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2187,
+      "radius": 2.428421734818277,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 2.803924963924482,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 2.713803419297121,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3132,
+      "radius": 2.5824848132176816,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 737,
+      "radius": 2.552306510440016,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 2.2010177617344917,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 2.1871368651853307,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 1.9989098239696006,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 1.9368108765685919,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8532,
+      "radius": 2.675239792640815,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2147,
+      "radius": 2.546517802773723,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3240,
+      "radius": 1.3312644834080807,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 745,
+      "radius": 1.2458391313967159,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8100,
+      "radius": 2.5304243416609746,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2115,
+      "radius": 2.5002176473033617,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 1.785591084391304,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 1.7622068210253392,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.0329712523479648,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 0.923354067867288,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9288,
+      "radius": 2.4122931224846167,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2203,
+      "radius": 2.3174591815399794,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8964,
+      "radius": 2.235912692344453,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2179,
+      "radius": 2.194858434790804,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8424,
+      "radius": 2.6716084443918424,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2139,
+      "radius": 2.63253929266002,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 2.7367883268832114,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 2.7900947137832506,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8964,
+      "radius": 2.5910037883615376,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2179,
+      "radius": 2.5377085090587097,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 1.865000782379043,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 1.8198973739828097,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5400,
+      "radius": 1.667922514547937,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1410,
+      "radius": 1.5887320896658472,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 2.0525447569870177,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 2.0109372335466262,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5832,
+      "radius": 1.6735152118581054,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1442,
+      "radius": 1.5860886985681595,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5940,
+      "radius": 1.7524942713793623,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1450,
+      "radius": 1.6520650566330228,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 1.512461113344122,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 1.4345614707060466,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 1.7520674645181127,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 1.6806640446331884,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 1.6060930472004413,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 1.4801780630896242,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5832,
+      "radius": 1.4922485275646793,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1442,
+      "radius": 1.3809939160231515,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9396,
+      "radius": 2.391101276585316,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2211,
+      "radius": 2.2797807740045344,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.1463930391873949,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.0345790043331313,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9072,
+      "radius": 2.9234174206717283,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2187,
+      "radius": 2.865056340647754,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 2.372515202443073,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 2.3148623130700843,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.5498514212282375,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.4852918439439406,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 2.5851453361843113,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 2.7112131980392187,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 1.7982662698811744,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 1.7046716238965407,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 2.4172790020204693,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 2.4261094905645404,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5508,
+      "radius": 2.7814392126905405,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1418,
+      "radius": 2.7104149388976446,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8424,
+      "radius": 2.75887296743944,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2139,
+      "radius": 2.758915288402873,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.626077506610438,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.5901096946641475,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2916,
+      "radius": 1.9517211911310928,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 721,
+      "radius": 1.9329724074131174,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6264,
+      "radius": 1.4609394901848558,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1474,
+      "radius": 1.3464644320291725,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 2.5147581647979336,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 2.4827687491495833,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6156,
+      "radius": 2.383390120705165,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1466,
+      "radius": 2.316864438480458,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3132,
+      "radius": 2.474906864814279,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 737,
+      "radius": 2.453578859118001,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.7199348258839646,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.6119297458599067,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 1.4396498202184917,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 1.4530362342812941,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9288,
+      "radius": 2.697805714629321,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2203,
+      "radius": 2.6285387886300473,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9072,
+      "radius": 1.8134414856049106,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2187,
+      "radius": 1.7370750792626795,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.3143186463273628,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.2113417561867752,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2592,
+      "radius": 0.9131646495046084,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 697,
+      "radius": 0.8326370352052317,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9396,
+      "radius": 2.556680098211217,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2211,
+      "radius": 2.5105090814784843,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9072,
+      "radius": 1.7142016570649283,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2187,
+      "radius": 1.613998096035174,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.6903458941995506,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.6028021945381306,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5508,
+      "radius": 1.309162589135258,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1418,
+      "radius": 1.2294945065627936,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.6154626943752244,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.5333109877817965,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8316,
+      "radius": 2.719706074677643,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2131,
+      "radius": 2.642065462438403,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 2.132413218004785,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 2.0634632944309566,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6048,
+      "radius": 2.262364305272952,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1458,
+      "radius": 2.2038524702485094,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5508,
+      "radius": 2.0455135578568977,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1418,
+      "radius": 1.9302289789625025,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5724,
+      "radius": 1.8366553780993866,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1434,
+      "radius": 1.7755002733071041,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.6038091477325964,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.522178284169937,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9288,
+      "radius": 2.6079251580058123,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2203,
+      "radius": 2.5219024505036525,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9072,
+      "radius": 2.2977865165024074,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2187,
+      "radius": 2.2789898157284902,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 1.6356291796039752,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 1.5124731792225652,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 1.020383321039644,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 0.894435929434112,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 2.0595975310440826,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.9950274031189572,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6048,
+      "radius": 2.618218938219151,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1458,
+      "radius": 2.533067328043926,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3240,
+      "radius": 1.4929493975444064,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 745,
+      "radius": 1.3992211041166636,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8964,
+      "radius": 1.9102844454108487,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2179,
+      "radius": 1.8347583730665213,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5400,
+      "radius": 2.6234013588702685,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1410,
+      "radius": 2.535838027800559,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6048,
+      "radius": 2.283446087574398,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1458,
+      "radius": 2.233000574589699,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 2.276524791666101,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 2.253976229364118,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.3781202241212145,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.3752014121367213,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8964,
+      "radius": 2.3999289174642735,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2179,
+      "radius": 2.3806344468838128,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2916,
+      "radius": 1.2643264352474934,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 721,
+      "radius": 1.1980032180565945,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5616,
+      "radius": 2.226252913668841,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1426,
+      "radius": 2.1395153207750384,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.5169959756451763,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.453638893324362,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5940,
+      "radius": 2.041462360194977,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1450,
+      "radius": 1.9541223009829896,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 9288,
+      "radius": 2.31007068236297,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2203,
+      "radius": 2.254318981277909,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8208,
+      "radius": 2.44690323028032,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2123,
+      "radius": 2.3777618448082563,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 7884,
+      "radius": 1.948324021079423,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2099,
+      "radius": 1.902722752100632,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3132,
+      "radius": 2.207225962303331,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 737,
+      "radius": 2.151546223653074,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.8233122699801037,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.7800569623072888,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6264,
+      "radius": 1.9351632175652576,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1474,
+      "radius": 1.837694421455192,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8748,
+      "radius": 2.384505988072535,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2163,
+      "radius": 2.3723097427919484,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 2.4174803226832156,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 2.4530045504257063,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8640,
+      "radius": 2.6767155788313763,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2155,
+      "radius": 2.6001662088146875,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 5940,
+      "radius": 2.5084067843900417,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1450,
+      "radius": 2.473919272372151,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 1.8267450574796271,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 1.7529210716588317,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2808,
+      "radius": 1.507825005428572,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 713,
+      "radius": 1.4249300011006636,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6264,
+      "radius": 2.667193614057088,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1474,
+      "radius": 2.5974049926115392,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 3024,
+      "radius": 2.433381570618314,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 729,
+      "radius": 2.4080889550522064,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6048,
+      "radius": 2.278064395998279,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1458,
+      "radius": 2.1881210159968605,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8532,
+      "radius": 2.784725266119298,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2147,
+      "radius": 2.697938104352732,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 6048,
+      "radius": 2.7280971933570615,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1458,
+      "radius": 2.700100981806348,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 7560,
+      "radius": 2.106489347024098,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2075,
+      "radius": 1.9668999598067576,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8424,
+      "radius": 2.5933406285762737,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2139,
+      "radius": 2.523247578203206,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8424,
+      "radius": 2.637312778352569,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2139,
+      "radius": 2.6240729582091875,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8856,
+      "radius": 2.5237129138452037,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2171,
+      "radius": 2.4332139539398687,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 8316,
+      "radius": 1.8142540167156394,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 2131,
+      "radius": 1.8087474095015108,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2916,
+      "radius": 1.2376620590734195,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 721,
+      "radius": 1.1851669804854248,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "leaf",
+      "vertices": 2916,
+      "radius": 1.609314419630692,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 721,
+      "radius": 1.5513107583961119,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.303203906172369,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31031653693246203,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31159059920543597,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31200777320224715,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3100040865918758,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31667175603292763,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30325398459848174,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.32374955338188505,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31909581382419794,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3086102372690366,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3120178941395547,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31138815127008407,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3052042736956678,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3133627124303266,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.309773668407632,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30265853305793816,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3011719731841185,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.30659491396045013,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3098107146028993,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30341825770252984,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3183325635743477,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3062066837792359,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3133862258512225,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.30505058079402,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3099582377441158,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.32118255950846386,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.29994374718538014,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30530140350732865,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3072097155160366,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3079914239443135,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.31671680787497636,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3117406469366842,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3022464125214248,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3192317455116458,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31228504136597257,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30976557860141557,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3154961591631542,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3046436346036536,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.31464360747796266,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3077758207101382,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.30390320468260257,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.30503963185743993,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3051089000375909,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.315642542922919,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.31620772123938123,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3145138920059453,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.315579422247144,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3080437404164515,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3101812161335935,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.30699683665258265,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 1443,
+      "radius": 0.3061848685310579,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3111706038997053,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.31715135149323415,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3041133508967333,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.3023551371002504,
+      "maxExcess": 0
+    },
+    {
+      "name": "",
+      "kind": "wood",
+      "vertices": 962,
+      "radius": 0.305831207876204,
+      "maxExcess": 0
+    }
+  ],
+  "limits": "Actual initial scene roots and shared geometry bounds. Wind uses an analytic displacement envelope with sampled phases/times for any boundary candidates; not browser interaction or FPS."
+}

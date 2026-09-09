@@ -1,0 +1,11 @@
+{
+  "centralTerrainVertices": 271441,
+  "centralTerrainBytesIdentical": true,
+  "centralTerrainSha256": "116f87247841a46d9be585a385cfe5b9cb955c602958b7bcd0b56c3d7ba1a0a5",
+  "grassPatchesCompared": 1600,
+  "grassPlacementBytesCompared": 80944896,
+  "grassPlacementBytesIdentical": true,
+  "textureScaleMeters": 1.5625,
+  "texturePhaseIntegerShift": 64,
+  "description": "Compares new700m exported terrain central subarray and every compact grass placement/scale/rank buffer with the previous500m scene export."
+}

@@ -1,0 +1,1064 @@
+{
+  "views": [
+    {
+      "i": 0,
+      "x": 0,
+      "z": 68,
+      "triangles": 31954311,
+      "draws": 595,
+      "shadowTriangles": 23025698,
+      "kinds": {
+        "tree": 20370743,
+        "shrub": 415458,
+        "grass": 5072832,
+        "fern": 5073134,
+        "herb": 1022144
+      },
+      "kindDraws": {
+        "tree": 375,
+        "shrub": 62,
+        "grass": 90,
+        "fern": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 1,
+      "x": 42.23,
+      "z": 45.89,
+      "triangles": 31823187,
+      "draws": 592,
+      "shadowTriangles": 24904770,
+      "kinds": {
+        "tree": 17563476,
+        "grass": 5310837,
+        "shrub": 701420,
+        "fern": 7095182,
+        "herb": 1152272
+      },
+      "kindDraws": {
+        "tree": 377,
+        "grass": 88,
+        "shrub": 58,
+        "fern": 60,
+        "herb": 9
+      }
+    },
+    {
+      "i": 2,
+      "x": 66.2,
+      "z": -6.06,
+      "triangles": 27170981,
+      "draws": 554,
+      "shadowTriangles": 23048048,
+      "kinds": {
+        "tree": 14735659,
+        "shrub": 509006,
+        "grass": 5296188,
+        "fern": 5592968,
+        "herb": 1037160
+      },
+      "kindDraws": {
+        "tree": 342,
+        "shrub": 62,
+        "grass": 88,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 3,
+      "x": 61.55,
+      "z": -54.07,
+      "triangles": 28805143,
+      "draws": 562,
+      "shadowTriangles": 23661983,
+      "kinds": {
+        "tree": 16408058,
+        "shrub": 481548,
+        "grass": 5357379,
+        "fern": 5592202,
+        "herb": 965956
+      },
+      "kindDraws": {
+        "tree": 352,
+        "shrub": 62,
+        "grass": 86,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 4,
+      "x": 30.29,
+      "z": -66.92,
+      "triangles": 30752942,
+      "draws": 603,
+      "shadowTriangles": 24896899,
+      "kinds": {
+        "tree": 17718920,
+        "grass": 5558532,
+        "fern": 5699616,
+        "herb": 1168320,
+        "shrub": 607554
+      },
+      "kindDraws": {
+        "tree": 396,
+        "grass": 86,
+        "fern": 54,
+        "herb": 9,
+        "shrub": 58
+      }
+    },
+    {
+      "i": 5,
+      "x": -14.07,
+      "z": -36.26,
+      "triangles": 30190747,
+      "draws": 608,
+      "shadowTriangles": 24892831,
+      "kinds": {
+        "tree": 18600242,
+        "grass": 5753205,
+        "shrub": 551842,
+        "fern": 4337386,
+        "herb": 948072
+      },
+      "kindDraws": {
+        "tree": 396,
+        "grass": 87,
+        "shrub": 64,
+        "fern": 54,
+        "herb": 7
+      }
+    },
+    {
+      "i": 6,
+      "x": -52.34,
+      "z": 17.98,
+      "triangles": 25716450,
+      "draws": 583,
+      "shadowTriangles": 26955956,
+      "kinds": {
+        "tree": 19489455,
+        "grass": 3582909,
+        "fern": 1506804,
+        "shrub": 414930,
+        "herb": 722352
+      },
+      "kindDraws": {
+        "tree": 378,
+        "grass": 88,
+        "fern": 51,
+        "shrub": 60,
+        "herb": 6
+      }
+    },
+    {
+      "i": 7,
+      "x": -67.98,
+      "z": 60.53,
+      "triangles": 32644412,
+      "draws": 552,
+      "shadowTriangles": 27525378,
+      "kinds": {
+        "tree": 15854646,
+        "shrub": 655330,
+        "grass": 8764638,
+        "fern": 6561106,
+        "herb": 808692
+      },
+      "kindDraws": {
+        "tree": 340,
+        "shrub": 68,
+        "grass": 86,
+        "fern": 51,
+        "herb": 7
+      }
+    },
+    {
+      "i": 8,
+      "x": -54.23,
+      "z": 63.72,
+      "triangles": 29220454,
+      "draws": 573,
+      "shadowTriangles": 24982873,
+      "kinds": {
+        "tree": 15746368,
+        "grass": 5648268,
+        "shrub": 600250,
+        "fern": 6088184,
+        "herb": 1137384
+      },
+      "kindDraws": {
+        "tree": 355,
+        "grass": 87,
+        "shrub": 62,
+        "fern": 60,
+        "herb": 9
+      }
+    },
+    {
+      "i": 9,
+      "x": -17.03,
+      "z": 25.47,
+      "triangles": 31496418,
+      "draws": 593,
+      "shadowTriangles": 25663459,
+      "kinds": {
+        "tree": 18043615,
+        "shrub": 649674,
+        "grass": 5867931,
+        "fern": 5889650,
+        "herb": 1045548
+      },
+      "kindDraws": {
+        "tree": 385,
+        "shrub": 60,
+        "grass": 86,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 10,
+      "x": 27.53,
+      "z": -29.33,
+      "triangles": 30564442,
+      "draws": 580,
+      "shadowTriangles": 24194600,
+      "kinds": {
+        "tree": 17597460,
+        "shrub": 649920,
+        "grass": 6393426,
+        "fern": 4875060,
+        "herb": 1048576
+      },
+      "kindDraws": {
+        "tree": 371,
+        "shrub": 60,
+        "grass": 87,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 11,
+      "x": 60.19,
+      "z": -65.07,
+      "triangles": 27990848,
+      "draws": 535,
+      "shadowTriangles": 24707128,
+      "kinds": {
+        "tree": 14933798,
+        "shrub": 484776,
+        "grass": 5626416,
+        "fern": 5918730,
+        "herb": 1027128
+      },
+      "kindDraws": {
+        "tree": 334,
+        "shrub": 62,
+        "grass": 83,
+        "fern": 48,
+        "herb": 8
+      }
+    },
+    {
+      "i": 12,
+      "x": 66.83,
+      "z": -58.49,
+      "triangles": 26446769,
+      "draws": 562,
+      "shadowTriangles": 24417952,
+      "kinds": {
+        "tree": 17968421,
+        "shrub": 432932,
+        "grass": 4082502,
+        "fern": 3071570,
+        "herb": 891344
+      },
+      "kindDraws": {
+        "tree": 352,
+        "shrub": 58,
+        "grass": 88,
+        "fern": 57,
+        "herb": 7
+      }
+    },
+    {
+      "i": 13,
+      "x": 44.57,
+      "z": -13.88,
+      "triangles": 31166156,
+      "draws": 603,
+      "shadowTriangles": 23132248,
+      "kinds": {
+        "tree": 17924344,
+        "shrub": 638110,
+        "grass": 5423604,
+        "fern": 6280942,
+        "herb": 899156
+      },
+      "kindDraws": {
+        "tree": 391,
+        "shrub": 60,
+        "grass": 85,
+        "fern": 60,
+        "herb": 7
+      }
+    },
+    {
+      "i": 14,
+      "x": 3.04,
+      "z": 39.75,
+      "triangles": 28718152,
+      "draws": 585,
+      "shadowTriangles": 23992254,
+      "kinds": {
+        "tree": 17535356,
+        "grass": 5711814,
+        "shrub": 455960,
+        "fern": 4016270,
+        "herb": 998752
+      },
+      "kindDraws": {
+        "tree": 377,
+        "grass": 87,
+        "shrub": 62,
+        "fern": 51,
+        "herb": 8
+      }
+    },
+    {
+      "i": 15,
+      "x": -39.8,
+      "z": 67.54,
+      "triangles": 32180465,
+      "draws": 570,
+      "shadowTriangles": 25138751,
+      "kinds": {
+        "tree": 18039718,
+        "shrub": 504736,
+        "grass": 6693183,
+        "fern": 5866824,
+        "herb": 1076004
+      },
+      "kindDraws": {
+        "tree": 364,
+        "shrub": 59,
+        "grass": 85,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 16,
+      "x": -65.43,
+      "z": 51.41,
+      "triangles": 32118311,
+      "draws": 599,
+      "shadowTriangles": 25996621,
+      "kinds": {
+        "tree": 18373294,
+        "grass": 5746905,
+        "fern": 6324834,
+        "shrub": 695170,
+        "herb": 978108
+      },
+      "kindDraws": {
+        "tree": 386,
+        "grass": 85,
+        "fern": 60,
+        "shrub": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 17,
+      "x": -62.78,
+      "z": 1.85,
+      "triangles": 34444911,
+      "draws": 597,
+      "shadowTriangles": 24839737,
+      "kinds": {
+        "tree": 20236321,
+        "grass": 6772008,
+        "fern": 6051494,
+        "shrub": 583216,
+        "herb": 801872
+      },
+      "kindDraws": {
+        "tree": 387,
+        "grass": 87,
+        "fern": 57,
+        "shrub": 60,
+        "herb": 6
+      }
+    },
+    {
+      "i": 18,
+      "x": -32.98,
+      "z": -48.91,
+      "triangles": 33129751,
+      "draws": 625,
+      "shadowTriangles": 25588349,
+      "kinds": {
+        "tree": 18544575,
+        "grass": 5470062,
+        "fern": 6970312,
+        "shrub": 642762,
+        "herb": 1502040
+      },
+      "kindDraws": {
+        "tree": 406,
+        "grass": 90,
+        "fern": 60,
+        "shrub": 58,
+        "herb": 11
+      }
+    },
+    {
+      "i": 19,
+      "x": 11.08,
+      "z": -67.87,
+      "triangles": 32060728,
+      "draws": 609,
+      "shadowTriangles": 25095480,
+      "kinds": {
+        "tree": 18374335,
+        "grass": 6247761,
+        "fern": 5631738,
+        "shrub": 603058,
+        "herb": 1203836
+      },
+      "kindDraws": {
+        "tree": 397,
+        "grass": 86,
+        "fern": 57,
+        "shrub": 60,
+        "herb": 9
+      }
+    },
+    {
+      "i": 20,
+      "x": 50.35,
+      "z": -42.69,
+      "triangles": 31727538,
+      "draws": 591,
+      "shadowTriangles": 25031351,
+      "kinds": {
+        "tree": 19486019,
+        "shrub": 574582,
+        "grass": 6171201,
+        "fern": 4527988,
+        "herb": 967748
+      },
+      "kindDraws": {
+        "tree": 384,
+        "shrub": 61,
+        "grass": 84,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 21,
+      "x": 67.85,
+      "z": 10.25,
+      "triangles": 34790542,
+      "draws": 585,
+      "shadowTriangles": 24303723,
+      "kinds": {
+        "tree": 20488466,
+        "grass": 8440722,
+        "shrub": 467158,
+        "fern": 4353856,
+        "herb": 1040340
+      },
+      "kindDraws": {
+        "tree": 381,
+        "grass": 87,
+        "shrub": 58,
+        "fern": 51,
+        "herb": 8
+      }
+    },
+    {
+      "i": 22,
+      "x": 56.01,
+      "z": 56.52,
+      "triangles": 32120035,
+      "draws": 598,
+      "shadowTriangles": 23858585,
+      "kinds": {
+        "tree": 20040646,
+        "shrub": 587884,
+        "grass": 5418501,
+        "fern": 4854256,
+        "herb": 1218748
+      },
+      "kindDraws": {
+        "tree": 382,
+        "shrub": 64,
+        "grass": 86,
+        "fern": 57,
+        "herb": 9
+      }
+    },
+    {
+      "i": 23,
+      "x": 19.96,
+      "z": 66.04,
+      "triangles": 33706919,
+      "draws": 603,
+      "shadowTriangles": 24375735,
+      "kinds": {
+        "tree": 19396202,
+        "shrub": 595796,
+        "grass": 5789955,
+        "fern": 6737282,
+        "herb": 1187684
+      },
+      "kindDraws": {
+        "tree": 390,
+        "shrub": 60,
+        "grass": 87,
+        "fern": 57,
+        "herb": 9
+      }
+    },
+    {
+      "i": 24,
+      "x": -24.72,
+      "z": 32.62,
+      "triangles": 31708243,
+      "draws": 615,
+      "shadowTriangles": 26831402,
+      "kinds": {
+        "tree": 19523150,
+        "shrub": 724382,
+        "grass": 3963963,
+        "fern": 6385108,
+        "herb": 1111640
+      },
+      "kindDraws": {
+        "tree": 399,
+        "shrub": 64,
+        "grass": 86,
+        "fern": 57,
+        "herb": 9
+      }
+    },
+    {
+      "i": 25,
+      "x": -58.71,
+      "z": -22.01,
+      "triangles": 33214992,
+      "draws": 600,
+      "shadowTriangles": 24453368,
+      "kinds": {
+        "tree": 17696946,
+        "shrub": 649678,
+        "grass": 7114752,
+        "fern": 6934220,
+        "herb": 819396
+      },
+      "kindDraws": {
+        "tree": 386,
+        "shrub": 64,
+        "grass": 87,
+        "fern": 57,
+        "herb": 6
+      }
+    },
+    {
+      "i": 26,
+      "x": -67.32,
+      "z": -62.33,
+      "triangles": 32949810,
+      "draws": 590,
+      "shadowTriangles": 26377934,
+      "kinds": {
+        "tree": 17385528,
+        "shrub": 679440,
+        "grass": 6376794,
+        "fern": 7300108,
+        "herb": 1207940
+      },
+      "kindDraws": {
+        "tree": 371,
+        "shrub": 64,
+        "grass": 86,
+        "fern": 60,
+        "herb": 9
+      }
+    },
+    {
+      "i": 27,
+      "x": -46.82,
+      "z": -62.12,
+      "triangles": 33164287,
+      "draws": 604,
+      "shadowTriangles": 23622229,
+      "kinds": {
+        "tree": 18695689,
+        "grass": 6921060,
+        "shrub": 697096,
+        "fern": 5798962,
+        "herb": 1051480
+      },
+      "kindDraws": {
+        "tree": 394,
+        "grass": 86,
+        "shrub": 62,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 28,
+      "x": -6.08,
+      "z": -21.52,
+      "triangles": 31100258,
+      "draws": 580,
+      "shadowTriangles": 24179558,
+      "kinds": {
+        "tree": 18414911,
+        "grass": 5364237,
+        "fern": 5676776,
+        "shrub": 628526,
+        "herb": 1015808
+      },
+      "kindDraws": {
+        "tree": 369,
+        "grass": 86,
+        "fern": 57,
+        "shrub": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 29,
+      "x": 37.29,
+      "z": 33.08,
+      "triangles": 29819897,
+      "draws": 586,
+      "shadowTriangles": 21962270,
+      "kinds": {
+        "tree": 17243241,
+        "grass": 6582420,
+        "fern": 4392426,
+        "shrub": 540102,
+        "herb": 1061708
+      },
+      "kindDraws": {
+        "tree": 376,
+        "grass": 88,
+        "fern": 54,
+        "shrub": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 30,
+      "x": 64.54,
+      "z": 66.17,
+      "triangles": 27227709,
+      "draws": 569,
+      "shadowTriangles": 23890372,
+      "kinds": {
+        "tree": 15832410,
+        "grass": 3663699,
+        "fern": 5947428,
+        "shrub": 580500,
+        "herb": 1203672
+      },
+      "kindDraws": {
+        "tree": 346,
+        "grass": 91,
+        "fern": 57,
+        "shrub": 66,
+        "herb": 9
+      }
+    },
+    {
+      "i": 31,
+      "x": 63.89,
+      "z": 56.23,
+      "triangles": 30995277,
+      "draws": 551,
+      "shadowTriangles": 23961797,
+      "kinds": {
+        "tree": 16795671,
+        "grass": 6471876,
+        "fern": 6071528,
+        "herb": 1049064,
+        "shrub": 607138
+      },
+      "kindDraws": {
+        "tree": 344,
+        "grass": 85,
+        "fern": 54,
+        "herb": 8,
+        "shrub": 60
+      }
+    },
+    {
+      "i": 32,
+      "x": 35.61,
+      "z": 9.73,
+      "triangles": 28697002,
+      "draws": 620,
+      "shadowTriangles": 22398487,
+      "kinds": {
+        "tree": 18282031,
+        "shrub": 549048,
+        "grass": 5232177,
+        "fern": 3831910,
+        "herb": 801836
+      },
+      "kindDraws": {
+        "tree": 413,
+        "shrub": 60,
+        "grass": 86,
+        "fern": 54,
+        "herb": 7
+      }
+    },
+    {
+      "i": 33,
+      "x": -8.06,
+      "z": -43.1,
+      "triangles": 34187042,
+      "draws": 576,
+      "shadowTriangles": 26457910,
+      "kinds": {
+        "tree": 18826724,
+        "shrub": 604578,
+        "grass": 7320768,
+        "fern": 6394816,
+        "herb": 1040156
+      },
+      "kindDraws": {
+        "tree": 378,
+        "shrub": 60,
+        "grass": 82,
+        "fern": 48,
+        "herb": 8
+      }
+    },
+    {
+      "i": 34,
+      "x": -48.25,
+      "z": -67.9,
+      "triangles": 29312094,
+      "draws": 597,
+      "shadowTriangles": 23409767,
+      "kinds": {
+        "tree": 16944896,
+        "shrub": 506482,
+        "grass": 6740256,
+        "fern": 4046980,
+        "herb": 1073480
+      },
+      "kindDraws": {
+        "tree": 392,
+        "shrub": 60,
+        "grass": 85,
+        "fern": 51,
+        "herb": 9
+      }
+    },
+    {
+      "i": 35,
+      "x": -67.57,
+      "z": -48.55,
+      "triangles": 30058066,
+      "draws": 597,
+      "shadowTriangles": 25078885,
+      "kinds": {
+        "tree": 17311722,
+        "shrub": 529292,
+        "grass": 6139854,
+        "fern": 5044650,
+        "herb": 1032548
+      },
+      "kindDraws": {
+        "tree": 393,
+        "shrub": 60,
+        "grass": 85,
+        "fern": 51,
+        "herb": 8
+      }
+    },
+    {
+      "i": 36,
+      "x": -57.68,
+      "z": 2.37,
+      "triangles": 27352509,
+      "draws": 566,
+      "shadowTriangles": 25353880,
+      "kinds": {
+        "tree": 18963240,
+        "shrub": 549950,
+        "grass": 4227237,
+        "fern": 2553994,
+        "herb": 1058088
+      },
+      "kindDraws": {
+        "tree": 355,
+        "shrub": 58,
+        "grass": 88,
+        "fern": 57,
+        "herb": 8
+      }
+    },
+    {
+      "i": 37,
+      "x": -22.85,
+      "z": 51.75,
+      "triangles": 33531248,
+      "draws": 602,
+      "shadowTriangles": 27053925,
+      "kinds": {
+        "tree": 19209374,
+        "shrub": 570632,
+        "grass": 6376602,
+        "fern": 6259100,
+        "herb": 1115540
+      },
+      "kindDraws": {
+        "tree": 401,
+        "shrub": 60,
+        "grass": 82,
+        "fern": 51,
+        "herb": 8
+      }
+    },
+    {
+      "i": 38,
+      "x": 21.86,
+      "z": 67.48,
+      "triangles": 33795439,
+      "draws": 577,
+      "shadowTriangles": 25917610,
+      "kinds": {
+        "tree": 17713117,
+        "grass": 7404702,
+        "shrub": 482982,
+        "fern": 7144634,
+        "herb": 1050004
+      },
+      "kindDraws": {
+        "tree": 373,
+        "grass": 84,
+        "shrub": 58,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 39,
+      "x": 57.12,
+      "z": 39.33,
+      "triangles": 31119452,
+      "draws": 573,
+      "shadowTriangles": 24163298,
+      "kinds": {
+        "tree": 16488645,
+        "grass": 6694401,
+        "shrub": 528226,
+        "fern": 6273016,
+        "herb": 1135164
+      },
+      "kindDraws": {
+        "tree": 359,
+        "grass": 87,
+        "shrub": 58,
+        "fern": 60,
+        "herb": 9
+      }
+    },
+    {
+      "i": 40,
+      "x": 67.68,
+      "z": -14.39,
+      "triangles": 28422321,
+      "draws": 559,
+      "shadowTriangles": 24906844,
+      "kinds": {
+        "tree": 17054574,
+        "grass": 4873341,
+        "fern": 4956746,
+        "shrub": 486736,
+        "herb": 1050924
+      },
+      "kindDraws": {
+        "tree": 352,
+        "grass": 83,
+        "fern": 54,
+        "shrub": 62,
+        "herb": 8
+      }
+    },
+    {
+      "i": 41,
+      "x": 48.99,
+      "z": -58.76,
+      "triangles": 33424186,
+      "draws": 576,
+      "shadowTriangles": 27182342,
+      "kinds": {
+        "tree": 17491844,
+        "grass": 8512416,
+        "fern": 5954108,
+        "shrub": 553954,
+        "herb": 911864
+      },
+      "kindDraws": {
+        "tree": 375,
+        "grass": 85,
+        "fern": 51,
+        "shrub": 58,
+        "herb": 7
+      }
+    },
+    {
+      "i": 42,
+      "x": 9.11,
+      "z": -64.91,
+      "triangles": 29979246,
+      "draws": 599,
+      "shadowTriangles": 23758316,
+      "kinds": {
+        "tree": 18339225,
+        "grass": 3757995,
+        "fern": 6287214,
+        "herb": 1140664,
+        "shrub": 454148
+      },
+      "kindDraws": {
+        "tree": 384,
+        "grass": 86,
+        "fern": 60,
+        "herb": 9,
+        "shrub": 60
+      }
+    },
+    {
+      "i": 43,
+      "x": -34.71,
+      "z": -28.86,
+      "triangles": 32340424,
+      "draws": 595,
+      "shadowTriangles": 24616103,
+      "kinds": {
+        "tree": 20134037,
+        "grass": 5043807,
+        "fern": 5555092,
+        "shrub": 610448,
+        "herb": 997040
+      },
+      "kindDraws": {
+        "tree": 388,
+        "grass": 85,
+        "fern": 54,
+        "shrub": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 44,
+      "x": -63.52,
+      "z": 25.96,
+      "triangles": 26723016,
+      "draws": 588,
+      "shadowTriangles": 24865977,
+      "kinds": {
+        "tree": 16153518,
+        "grass": 4937040,
+        "fern": 4424884,
+        "shrub": 393682,
+        "herb": 813892
+      },
+      "kindDraws": {
+        "tree": 382,
+        "grass": 87,
+        "fern": 57,
+        "shrub": 56,
+        "herb": 6
+      }
+    },
+    {
+      "i": 45,
+      "x": -64.86,
+      "z": 63.9,
+      "triangles": 30370090,
+      "draws": 581,
+      "shadowTriangles": 27038006,
+      "kinds": {
+        "tree": 15988632,
+        "grass": 5802708,
+        "shrub": 553980,
+        "fern": 7037458,
+        "herb": 987312
+      },
+      "kindDraws": {
+        "tree": 370,
+        "grass": 87,
+        "shrub": 62,
+        "fern": 54,
+        "herb": 8
+      }
+    },
+    {
+      "i": 46,
+      "x": -38.17,
+      "z": 60.29,
+      "triangles": 34673129,
+      "draws": 598,
+      "shadowTriangles": 24691176,
+      "kinds": {
+        "tree": 18711111,
+        "shrub": 542308,
+        "grass": 7896300,
+        "fern": 6444322,
+        "herb": 1079088
+      },
+      "kindDraws": {
+        "tree": 390,
+        "shrub": 56,
+        "grass": 84,
+        "fern": 60,
+        "herb": 8
+      }
+    },
+    {
+      "i": 47,
+      "x": 5.03,
+      "z": 17.48,
+      "triangles": 31341611,
+      "draws": 591,
+      "shadowTriangles": 24510546,
+      "kinds": {
+        "tree": 19214002,
+        "shrub": 613322,
+        "grass": 5078043,
+        "fern": 5335604,
+        "herb": 1100640
+      },
+      "kindDraws": {
+        "tree": 380,
+        "shrub": 60,
+        "grass": 89,
+        "fern": 54,
+        "herb": 8
+      }
+    }
+  ],
+  "maxTriangles": 34790542,
+  "minTriangles": 25716450,
+  "maxDraws": 625,
+  "description": "CPU geometry and frustum audit only; not browser FPS"
+}

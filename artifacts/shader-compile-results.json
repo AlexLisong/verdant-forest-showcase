@@ -1,0 +1,110 @@
+[
+  {
+    "material": "grass",
+    "compiled": true
+  },
+  {
+    "material": "attached",
+    "compiled": true
+  },
+  {
+    "material": "oak",
+    "compiled": true
+  },
+  {
+    "material": "grass_compact",
+    "compiled": true
+  },
+  {
+    "material": "plain",
+    "compiled": true
+  },
+  {
+    "material": "beech_single",
+    "compiled": true
+  },
+  {
+    "material": "beech",
+    "compiled": true
+  },
+  {
+    "material": "vertex",
+    "compiled": true
+  },
+  {
+    "material": "attached_single",
+    "compiled": true
+  },
+  {
+    "material": "log",
+    "compiled": true
+  },
+  {
+    "material": "leaf_single",
+    "compiled": true
+  },
+  {
+    "material": "endgrain",
+    "compiled": true
+  },
+  {
+    "material": "bark",
+    "compiled": true
+  },
+  {
+    "material": "rock",
+    "compiled": true
+  },
+  {
+    "material": "ground",
+    "compiled": true
+  },
+  {
+    "material": "shrub",
+    "compiled": true
+  },
+  {
+    "material": "fern",
+    "compiled": true
+  },
+  {
+    "material": "leaf",
+    "compiled": true
+  },
+  {
+    "material": "birch",
+    "compiled": true
+  },
+  {
+    "material": "wood_single",
+    "compiled": true
+  },
+  {
+    "material": "wood",
+    "compiled": true
+  },
+  {
+    "material": "leaf_single",
+    "compiled": true
+  },
+  {
+    "material": "shrub",
+    "compiled": true
+  },
+  {
+    "material": "fern",
+    "compiled": true
+  },
+  {
+    "material": "leaf",
+    "compiled": true
+  },
+  {
+    "material": "particles",
+    "compiled": true
+  },
+  {
+    "material": "sky",
+    "compiled": true
+  }
+]

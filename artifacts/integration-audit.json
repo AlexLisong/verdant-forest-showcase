@@ -1,0 +1,20 @@
+{
+  "geometryCount": 920,
+  "objectCount": 12969,
+  "instances": 2954523,
+  "triangles": 7168065340,
+  "empty": 0,
+  "trees": 3808,
+  "grass": 2529528,
+  "ferns": 39598,
+  "shrubs": 4341,
+  "herbs": 43953,
+  "ivyClimbers": 128,
+  "ivyLeaves": 7602,
+  "bracketClusters": 56,
+  "mossShoots": 214811,
+  "rootSystems": 356,
+  "twigs": 4000,
+  "acorns": 850,
+  "finite": true
+}

@@ -1,0 +1,104 @@
+{
+  "allPublicAssetsByteIdentical": true,
+  "fileCount": 19,
+  "bytes": 18829252,
+  "forestSourceSha256": "3a80e26f1fe55597298bb38dcc0d577b89f7ad255ae51da73ded304d3a67055c",
+  "currentSourceMatchesNativeSnapshot": true,
+  "files": [
+    {
+      "path": "credits.txt",
+      "bytes": 567,
+      "sha256": "52f7f4f936812ce1c1af764d0bdee334adb3fe8a69f4468e7ecb9b0f5224aa5a"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 303,
+      "sha256": "c509894cc1e7b62500865f01ed7e2a7545282bcca81c79a29d5c28b378d4630e"
+    },
+    {
+      "path": "file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "textures/bark-color.jpg",
+      "bytes": 2112083,
+      "sha256": "962ef8f02bbff3b254e8a2259a3d7c3855f8a9ce2e280fc74c37ecf92165bf97"
+    },
+    {
+      "path": "textures/bark-normal.jpg",
+      "bytes": 2457380,
+      "sha256": "32fdac0bb0a1c6ae315ba43352a09946f5e521fee1575dfa7ae62d02e4622c78"
+    },
+    {
+      "path": "textures/endgrain.jpg",
+      "bytes": 232145,
+      "sha256": "c59a8dfa93f11573d532e7579673d548902245cfdb741712fe2123a9e4ae303d"
+    },
+    {
+      "path": "textures/ground-color.jpg",
+      "bytes": 2294122,
+      "sha256": "88a03d835b025842d684310f4fa89b9102ea50db2ce9c4491bd72086a4b28265"
+    },
+    {
+      "path": "textures/ground-normal.jpg",
+      "bytes": 4019907,
+      "sha256": "a7d0c25745510b92a31dbe0e4c33b30f58f8fcfd95bbcbc4362127cb65ed1ef8"
+    },
+    {
+      "path": "textures/mobile/bark-color.jpg",
+      "bytes": 356376,
+      "sha256": "fddc59240dbd337ba12d5714d7214142d9d40f4befd31df87527f75ebee1c000"
+    },
+    {
+      "path": "textures/mobile/bark-normal.jpg",
+      "bytes": 407254,
+      "sha256": "ecbaab563819ca63b8cd3ff21059817f18cce7fb44a85deee71c8d3d36a0c102"
+    },
+    {
+      "path": "textures/mobile/endgrain.jpg",
+      "bytes": 96262,
+      "sha256": "60e052501f1e9e25a44943e5c2998c5aa0a5e6086f21b24252db671374cff862"
+    },
+    {
+      "path": "textures/mobile/ground-color.jpg",
+      "bytes": 572510,
+      "sha256": "1ca5c2151ab0d6f90f048e0b7254bea6d9bfd0463c6fb7beb061504ae965a3e0"
+    },
+    {
+      "path": "textures/mobile/ground-normal.jpg",
+      "bytes": 1115367,
+      "sha256": "ce0e26aaf7c5dc544c88a3619159bc0f62adc9229d5459b2db428462459cb2a4"
+    },
+    {
+      "path": "textures/mobile/rock-color.jpg",
+      "bytes": 478728,
+      "sha256": "0145a9e0b1f0a26126095f1bd05ac548a37914387f35f962ea0c2d637579eb13"
+    },
+    {
+      "path": "textures/mobile/rock-normal.jpg",
+      "bytes": 477704,
+      "sha256": "20da9e9155ee807068d1cd5529be63ffd90d38e496ee3e8b00a8cfaa8deff200"
+    },
+    {
+      "path": "textures/rock-color.jpg",
+      "bytes": 2231941,
+      "sha256": "2597874deb326f860190cc20eb9111bfbee4b6a6bf94e516dfa9063277125e0e"
+    },
+    {
+      "path": "textures/rock-normal.jpg",
+      "bytes": 1974789,
+      "sha256": "e0f61633259037bb4cffbd3048f60836530f78cec0ef3be7cdabe232afa16390"
+    },
+    {
+      "path": "window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    }
+  ]
+}

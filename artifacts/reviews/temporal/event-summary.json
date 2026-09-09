@@ -1,0 +1,85 @@
+{
+  "motion": {
+    "frames": 360,
+    "pairs": 359,
+    "medianRGB": 11.405589763374486,
+    "maxRGB": 12.957060185185185,
+    "medianBlur": 2.3548502922058105,
+    "maxBlur": 2.9377214908599854,
+    "maxLocalRGBRatio": 1.0154214114101732,
+    "maxLocalBlurRatio": 1.1309585167950285,
+    "maxAbsoluteLumaMeanDelta": 0.516751229763031,
+    "groups": {
+      "shadowRefresh": {
+        "pairs": 91,
+        "meanRGB": 11.39846659770271,
+        "meanBlur": 2.402162331801194,
+        "medianLocalRGBRatio": 1.0026965632246116,
+        "medianLocalBlurRatio": 1.0135980968361253
+      },
+      "noShadowRefresh": {
+        "pairs": 268,
+        "meanRGB": 11.37812614493121,
+        "meanBlur": 2.361933218899058,
+        "medianLocalRGBRatio": 0.9990262210947768,
+        "medianLocalBlurRatio": 0.9959861727134454
+      },
+      "geometrySwitch": {
+        "pairs": 22,
+        "meanRGB": 11.533899515993266,
+        "meanBlur": 2.4306738810105757,
+        "medianLocalRGBRatio": 1.0015761461853736,
+        "medianLocalBlurRatio": 1.0120818165677266
+      },
+      "noGeometrySwitch": {
+        "pairs": 337,
+        "meanRGB": 11.373449489260114,
+        "meanBlur": 2.3683087521561528,
+        "medianLocalRGBRatio": 0.9996743243478862,
+        "medianLocalBlurRatio": 0.9983796611955756
+      }
+    },
+    "recenterFrames": [
+      0,
+      141,
+      275
+    ]
+  },
+  "entrance": {
+    "frames": 180,
+    "pairs": 179,
+    "medianRGB": 2.413139917695473,
+    "maxRGB": 3.1182427983539096,
+    "medianBlur": 0.28354695439338684,
+    "maxBlur": 0.4594801664352417,
+    "maxLocalRGBRatio": 1.2770674553493302,
+    "maxLocalBlurRatio": 1.7598710811717297,
+    "maxAbsoluteLumaMeanDelta": 0.07447439432144165,
+    "groups": {
+      "shadowRefresh": {
+        "pairs": 44,
+        "meanRGB": 2.7712687055742613,
+        "meanBlur": 0.40478710423816333,
+        "medianLocalRGBRatio": 1.174310419606834,
+        "medianLocalBlurRatio": 1.422053243668901
+      },
+      "noShadowRefresh": {
+        "pairs": 135,
+        "meanRGB": 2.303183253315044,
+        "meanBlur": 0.272673276397917,
+        "medianLocalRGBRatio": 0.9831780371400156,
+        "medianLocalBlurRatio": 0.9845280946103154
+      },
+      "noGeometrySwitch": {
+        "pairs": 179,
+        "meanRGB": 2.4182433644849075,
+        "meanBlur": 0.3051481837999887,
+        "medianLocalRGBRatio": 0.9901766046957116,
+        "medianLocalBlurRatio": 0.991538426551852
+      }
+    },
+    "recenterFrames": [
+      0
+    ]
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "sourceHash": "9aa1e9f55e2d51c2e35f52141b830ef78af19dd2847f9c6391a1bf00a5cf46bd",
+  "metrics": {
+    "views": 48,
+    "trees": 3808,
+    "cells": 1024,
+    "sourceMeshes": 7248,
+    "original": {
+      "meanDraws": 662.6458333333334,
+      "peakDraws": 776,
+      "meanInstances": 698.375
+    },
+    "pools": {
+      "60": {
+        "allocatedPools": 1506,
+        "meanDraws": 166.125,
+        "peakDraws": 191,
+        "meanInstances": 813.6875,
+        "snapshotMatrixBytes": 487424
+      },
+      "80": {
+        "allocatedPools": 864,
+        "meanDraws": 119.22916666666667,
+        "peakDraws": 170,
+        "meanInstances": 840.875,
+        "snapshotMatrixBytes": 487424
+      }
+    }
+  },
+  "rows": [
+    {
+      "x": 0,
+      "z": 0,
+      "yaw": 0,
+      "originalDraws": 653,
+      "originalInstances": 669,
+      "idealInstances": 667,
+      "pools": {
+        "60": {
+          "draws": 175,
+          "instances": 812
+        },
+        "80": {
+          "draws": 113,
+          "instances": 788
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 0,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 772,
+      "originalInstances": 812,
+      "idealInstances": 809,
+      "pools": {
+        "60": {
+          "draws": 166,
+          "instances": 918
+        },
+        "80": {
+          "draws": 125,
+          "instances": 933
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 0,
+      "yaw": 3.141592653589793,
+      "originalDraws": 767,
+      "originalInstances": 822,
+      "idealInstances": 820,
+      "pools": {
+        "60": {
+          "draws": 181,
+          "instances": 937
+        },
+        "80": {
+          "draws": 131,
+          "instances": 960
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 0,
+      "yaw": 4.71238898038469,
+      "originalDraws": 740,
+      "originalInstances": 790,
+      "idealInstances": 788,
+      "pools": {
+        "60": {
+          "draws": 172,
+          "instances": 902
+        },
+        "80": {
+          "draws": 120,
+          "instances": 934
+        }
+      }
+    },
+    {
+      "x": 75,
+      "z": 0,
+      "yaw": 0,
+      "originalDraws": 651,
+      "originalInstances": 667,
+      "idealInstances": 667,
+      "pools": {
+        "60": {
+          "draws": 174,
+          "instances": 820
+        },
+        "80": {
+          "draws": 113,
+          "instances": 794
+        }
+      }
+    },
+    {
+      "x": 75,
+      "z": 0,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 747,
+      "originalInstances": 787,
+      "idealInstances": 786,
+      "pools": {
+        "60": {
+          "draws": 179,
+          "instances": 908
+        },
+        "80": {
+          "draws": 128,
+          "instances": 922
+        }
+      }
+    },
+    {
+      "x": 75,
+      "z": 0,
+      "yaw": 3.141592653589793,
+      "originalDraws": 760,
+      "originalInstances": 812,
+      "idealInstances": 812,
+      "pools": {
+        "60": {
+          "draws": 186,
+          "instances": 985
+        },
+        "80": {
+          "draws": 125,
+          "instances": 945
+        }
+      }
+    },
+    {
+      "x": 75,
+      "z": 0,
+      "yaw": 4.71238898038469,
+      "originalDraws": 762,
+      "originalInstances": 812,
+      "idealInstances": 809,
+      "pools": {
+        "60": {
+          "draws": 177,
+          "instances": 938
+        },
+        "80": {
+          "draws": 135,
+          "instances": 945
+        }
+      }
+    },
+    {
+      "x": -75,
+      "z": 0,
+      "yaw": 0,
+      "originalDraws": 646,
+      "originalInstances": 662,
+      "idealInstances": 662,
+      "pools": {
+        "60": {
+          "draws": 174,
+          "instances": 805
+        },
+        "80": {
+          "draws": 114,
+          "instances": 808
+        }
+      }
+    },
+    {
+      "x": -75,
+      "z": 0,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 761,
+      "originalInstances": 808,
+      "idealInstances": 808,
+      "pools": {
+        "60": {
+          "draws": 187,
+          "instances": 936
+        },
+        "80": {
+          "draws": 129,
+          "instances": 923
+        }
+      }
+    },
+    {
+      "x": -75,
+      "z": 0,
+      "yaw": 3.141592653589793,
+      "originalDraws": 751,
+      "originalInstances": 806,
+      "idealInstances": 801,
+      "pools": {
+        "60": {
+          "draws": 181,
+          "instances": 933
+        },
+        "80": {
+          "draws": 124,
+          "instances": 948
+        }
+      }
+    },
+    {
+      "x": -75,
+      "z": 0,
+      "yaw": 4.71238898038469,
+      "originalDraws": 756,
+      "originalInstances": 804,
+      "idealInstances": 802,
+      "pools": {
+        "60": {
+          "draws": 176,
+          "instances": 926
+        },
+        "80": {
+          "draws": 130,
+          "instances": 937
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 75,
+      "yaw": 0,
+      "originalDraws": 599,
+      "originalInstances": 599,
+      "idealInstances": 599,
+      "pools": {
+        "60": {
+          "draws": 168,
+          "instances": 712
+        },
+        "80": {
+          "draws": 113,
+          "instances": 727
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 75,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 724,
+      "originalInstances": 752,
+      "idealInstances": 751,
+      "pools": {
+        "60": {
+          "draws": 167,
+          "instances": 885
+        },
+        "80": {
+          "draws": 119,
+          "instances": 874
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 75,
+      "yaw": 3.141592653589793,
+      "originalDraws": 750,
+      "originalInstances": 802,
+      "idealInstances": 800,
+      "pools": {
+        "60": {
+          "draws": 180,
+          "instances": 906
+        },
+        "80": {
+          "draws": 134,
+          "instances": 929
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 75,
+      "yaw": 4.71238898038469,
+      "originalDraws": 720,
+      "originalInstances": 758,
+      "idealInstances": 758,
+      "pools": {
+        "60": {
+          "draws": 176,
+          "instances": 892
+        },
+        "80": {
+          "draws": 121,
+          "instances": 868
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": -75,
+      "yaw": 0,
+      "originalDraws": 755,
+      "originalInstances": 801,
+      "idealInstances": 801,
+      "pools": {
+        "60": {
+          "draws": 187,
+          "instances": 918
+        },
+        "80": {
+          "draws": 142,
+          "instances": 920
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": -75,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 757,
+      "originalInstances": 799,
+      "idealInstances": 795,
+      "pools": {
+        "60": {
+          "draws": 167,
+          "instances": 938
+        },
+        "80": {
+          "draws": 123,
+          "instances": 941
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": -75,
+      "yaw": 3.141592653589793,
+      "originalDraws": 760,
+      "originalInstances": 813,
+      "idealInstances": 808,
+      "pools": {
+        "60": {
+          "draws": 191,
+          "instances": 945
+        },
+        "80": {
+          "draws": 134,
+          "instances": 954
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": -75,
+      "yaw": 4.71238898038469,
+      "originalDraws": 764,
+      "originalInstances": 816,
+      "idealInstances": 814,
+      "pools": {
+        "60": {
+          "draws": 183,
+          "instances": 977
+        },
+        "80": {
+          "draws": 124,
+          "instances": 968
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": 120,
+      "yaw": 0,
+      "originalDraws": 472,
+      "originalInstances": 472,
+      "idealInstances": 472,
+      "pools": {
+        "60": {
+          "draws": 157,
+          "instances": 558
+        },
+        "80": {
+          "draws": 93,
+          "instances": 587
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": 120,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 535,
+      "originalInstances": 551,
+      "idealInstances": 549,
+      "pools": {
+        "60": {
+          "draws": 148,
+          "instances": 661
+        },
+        "80": {
+          "draws": 95,
+          "instances": 702
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": 120,
+      "yaw": 3.141592653589793,
+      "originalDraws": 776,
+      "originalInstances": 826,
+      "idealInstances": 826,
+      "pools": {
+        "60": {
+          "draws": 184,
+          "instances": 943
+        },
+        "80": {
+          "draws": 167,
+          "instances": 991
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": 120,
+      "yaw": 4.71238898038469,
+      "originalDraws": 676,
+      "originalInstances": 708,
+      "idealInstances": 708,
+      "pools": {
+        "60": {
+          "draws": 154,
+          "instances": 820
+        },
+        "80": {
+          "draws": 136,
+          "instances": 887
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": 120,
+      "yaw": 0,
+      "originalDraws": 460,
+      "originalInstances": 460,
+      "idealInstances": 460,
+      "pools": {
+        "60": {
+          "draws": 157,
+          "instances": 558
+        },
+        "80": {
+          "draws": 95,
+          "instances": 607
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": 120,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 690,
+      "originalInstances": 722,
+      "idealInstances": 722,
+      "pools": {
+        "60": {
+          "draws": 165,
+          "instances": 827
+        },
+        "80": {
+          "draws": 133,
+          "instances": 862
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": 120,
+      "yaw": 3.141592653589793,
+      "originalDraws": 772,
+      "originalInstances": 822,
+      "idealInstances": 821,
+      "pools": {
+        "60": {
+          "draws": 183,
+          "instances": 934
+        },
+        "80": {
+          "draws": 166,
+          "instances": 975
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": 120,
+      "yaw": 4.71238898038469,
+      "originalDraws": 506,
+      "originalInstances": 536,
+      "idealInstances": 536,
+      "pools": {
+        "60": {
+          "draws": 134,
+          "instances": 652
+        },
+        "80": {
+          "draws": 91,
+          "instances": 692
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": -120,
+      "yaw": 0,
+      "originalDraws": 759,
+      "originalInstances": 809,
+      "idealInstances": 806,
+      "pools": {
+        "60": {
+          "draws": 181,
+          "instances": 925
+        },
+        "80": {
+          "draws": 164,
+          "instances": 967
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": -120,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 602,
+      "originalInstances": 630,
+      "idealInstances": 629,
+      "pools": {
+        "60": {
+          "draws": 160,
+          "instances": 761
+        },
+        "80": {
+          "draws": 103,
+          "instances": 812
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": -120,
+      "yaw": 3.141592653589793,
+      "originalDraws": 597,
+      "originalInstances": 636,
+      "idealInstances": 635,
+      "pools": {
+        "60": {
+          "draws": 182,
+          "instances": 736
+        },
+        "80": {
+          "draws": 108,
+          "instances": 775
+        }
+      }
+    },
+    {
+      "x": 120,
+      "z": -120,
+      "yaw": 4.71238898038469,
+      "originalDraws": 744,
+      "originalInstances": 800,
+      "idealInstances": 796,
+      "pools": {
+        "60": {
+          "draws": 160,
+          "instances": 919
+        },
+        "80": {
+          "draws": 142,
+          "instances": 964
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": -120,
+      "yaw": 0,
+      "originalDraws": 755,
+      "originalInstances": 805,
+      "idealInstances": 805,
+      "pools": {
+        "60": {
+          "draws": 186,
+          "instances": 958
+        },
+        "80": {
+          "draws": 170,
+          "instances": 1027
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": -120,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 773,
+      "originalInstances": 829,
+      "idealInstances": 829,
+      "pools": {
+        "60": {
+          "draws": 179,
+          "instances": 958
+        },
+        "80": {
+          "draws": 146,
+          "instances": 1004
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": -120,
+      "yaw": 3.141592653589793,
+      "originalDraws": 589,
+      "originalInstances": 625,
+      "idealInstances": 625,
+      "pools": {
+        "60": {
+          "draws": 181,
+          "instances": 733
+        },
+        "80": {
+          "draws": 111,
+          "instances": 799
+        }
+      }
+    },
+    {
+      "x": -120,
+      "z": -120,
+      "yaw": 4.71238898038469,
+      "originalDraws": 556,
+      "originalInstances": 612,
+      "idealInstances": 610,
+      "pools": {
+        "60": {
+          "draws": 138,
+          "instances": 722
+        },
+        "80": {
+          "draws": 94,
+          "instances": 760
+        }
+      }
+    },
+    {
+      "x": 180,
+      "z": 0,
+      "yaw": 0,
+      "originalDraws": 628,
+      "originalInstances": 644,
+      "idealInstances": 644,
+      "pools": {
+        "60": {
+          "draws": 167,
+          "instances": 746
+        },
+        "80": {
+          "draws": 102,
+          "instances": 754
+        }
+      }
+    },
+    {
+      "x": 180,
+      "z": 0,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 239,
+      "originalInstances": 239,
+      "idealInstances": 239,
+      "pools": {
+        "60": {
+          "draws": 85,
+          "instances": 312
+        },
+        "80": {
+          "draws": 49,
+          "instances": 370
+        }
+      }
+    },
+    {
+      "x": 180,
+      "z": 0,
+      "yaw": 3.141592653589793,
+      "originalDraws": 741,
+      "originalInstances": 789,
+      "idealInstances": 787,
+      "pools": {
+        "60": {
+          "draws": 176,
+          "instances": 872
+        },
+        "80": {
+          "draws": 112,
+          "instances": 900
+        }
+      }
+    },
+    {
+      "x": 180,
+      "z": 0,
+      "yaw": 4.71238898038469,
+      "originalDraws": 764,
+      "originalInstances": 804,
+      "idealInstances": 797,
+      "pools": {
+        "60": {
+          "draws": 171,
+          "instances": 897
+        },
+        "80": {
+          "draws": 139,
+          "instances": 980
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 180,
+      "yaw": 0,
+      "originalDraws": 178,
+      "originalInstances": 178,
+      "idealInstances": 178,
+      "pools": {
+        "60": {
+          "draws": 93,
+          "instances": 251
+        },
+        "80": {
+          "draws": 44,
+          "instances": 284
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 180,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 644,
+      "originalInstances": 662,
+      "idealInstances": 661,
+      "pools": {
+        "60": {
+          "draws": 154,
+          "instances": 733
+        },
+        "80": {
+          "draws": 101,
+          "instances": 767
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 180,
+      "yaw": 3.141592653589793,
+      "originalDraws": 762,
+      "originalInstances": 816,
+      "idealInstances": 810,
+      "pools": {
+        "60": {
+          "draws": 184,
+          "instances": 967
+        },
+        "80": {
+          "draws": 151,
+          "instances": 1025
+        }
+      }
+    },
+    {
+      "x": 0,
+      "z": 180,
+      "yaw": 4.71238898038469,
+      "originalDraws": 653,
+      "originalInstances": 671,
+      "idealInstances": 671,
+      "pools": {
+        "60": {
+          "draws": 164,
+          "instances": 754
+        },
+        "80": {
+          "draws": 104,
+          "instances": 784
+        }
+      }
+    },
+    {
+      "x": -180,
+      "z": 0,
+      "yaw": 0,
+      "originalDraws": 640,
+      "originalInstances": 654,
+      "idealInstances": 654,
+      "pools": {
+        "60": {
+          "draws": 165,
+          "instances": 749
+        },
+        "80": {
+          "draws": 103,
+          "instances": 757
+        }
+      }
+    },
+    {
+      "x": -180,
+      "z": 0,
+      "yaw": 1.5707963267948966,
+      "originalDraws": 749,
+      "originalInstances": 803,
+      "idealInstances": 803,
+      "pools": {
+        "60": {
+          "draws": 173,
+          "instances": 923
+        },
+        "80": {
+          "draws": 144,
+          "instances": 1011
+        }
+      }
+    },
+    {
+      "x": -180,
+      "z": 0,
+      "yaw": 3.141592653589793,
+      "originalDraws": 747,
+      "originalInstances": 797,
+      "idealInstances": 793,
+      "pools": {
+        "60": {
+          "draws": 174,
+          "instances": 884
+        },
+        "80": {
+          "draws": 114,
+          "instances": 919
+        }
+      }
+    },
+    {
+      "x": -180,
+      "z": 0,
+      "yaw": 4.71238898038469,
+      "originalDraws": 205,
+      "originalInstances": 231,
+      "idealInstances": 231,
+      "pools": {
+        "60": {
+          "draws": 72,
+          "instances": 311
+        },
+        "80": {
+          "draws": 49,
+          "instances": 382
+        }
+      }
+    }
+  ]
+}

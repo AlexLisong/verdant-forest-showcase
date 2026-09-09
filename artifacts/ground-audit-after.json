@@ -1,0 +1,13 @@
+{
+  "samples": 200000,
+  "maxAbove": 0,
+  "maxBelow": -2.089839745700317e-9,
+  "meanAbsolute": 1.0449198728501585e-14,
+  "floatingGrassRoots": 0,
+  "cpu": {
+    "user": 39698,
+    "system": 0
+  },
+  "wallMs": 78.40575200000012,
+  "description": "Independent triangle interpolation from the actual rendered ground vertex array; grass roots are placed 0.015m below heightAt."
+}
