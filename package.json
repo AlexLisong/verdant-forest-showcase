@@ -14,7 +14,8 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "typecheck": "tsc --noEmit",
-    "test:controls": "node scripts/prepare-qa.mjs && node scripts/audit-controls.mjs"
+    "test:controls": "node scripts/prepare-qa.mjs && node scripts/audit-controls.mjs",
+    "deploy:aws": "node scripts/deploy-aws.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
@@ -64,5 +65,5 @@
     "wrangler": "4.92.0"
   },
   "type": "module",
-  "description": "An attributed, runnable showcase of Leon Lin\u2019s procedural Three.js forest."
+  "description": "An attributed, runnable showcase of Leon Lin’s procedural Three.js forest."
 }

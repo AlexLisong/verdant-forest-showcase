@@ -1,0 +1,117 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Private S3 origin and HTTPS CloudFront delivery for Verdant Forest Showcase
+
+Resources:
+  SiteBucket:
+    Type: AWS::S3::Bucket
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      OwnershipControls:
+        Rules:
+          - ObjectOwnership: BucketOwnerEnforced
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      Tags:
+        - Key: Project
+          Value: verdant-forest-showcase
+
+  OriginAccessControl:
+    Type: AWS::CloudFront::OriginAccessControl
+    Properties:
+      OriginAccessControlConfig:
+        Name: !Sub '${AWS::StackName}-s3'
+        Description: Sign requests to the private forest bucket
+        OriginAccessControlOriginType: s3
+        SigningBehavior: always
+        SigningProtocol: sigv4
+
+  CachePolicy:
+    Type: AWS::CloudFront::CachePolicy
+    Properties:
+      CachePolicyConfig:
+        Name: !Sub '${AWS::StackName}-cache'
+        MinTTL: 0
+        DefaultTTL: 3600
+        MaxTTL: 31536000
+        ParametersInCacheKeyAndForwardedToOrigin:
+          EnableAcceptEncodingBrotli: true
+          EnableAcceptEncodingGzip: true
+          CookiesConfig:
+            CookieBehavior: none
+          HeadersConfig:
+            HeaderBehavior: none
+          QueryStringsConfig:
+            QueryStringBehavior: none
+
+  Distribution:
+    Type: AWS::CloudFront::Distribution
+    Properties:
+      DistributionConfig:
+        Comment: Verdant Forest Showcase - AlexLisong
+        Enabled: true
+        DefaultRootObject: index.html
+        HttpVersion: http2and3
+        IPV6Enabled: true
+        PriceClass: PriceClass_100
+        Origins:
+          - Id: forest-s3
+            DomainName: !GetAtt SiteBucket.RegionalDomainName
+            OriginAccessControlId: !GetAtt OriginAccessControl.Id
+            S3OriginConfig:
+              OriginAccessIdentity: ''
+        DefaultCacheBehavior:
+          TargetOriginId: forest-s3
+          ViewerProtocolPolicy: redirect-to-https
+          AllowedMethods: [GET, HEAD]
+          CachedMethods: [GET, HEAD]
+          Compress: true
+          CachePolicyId: !Ref CachePolicy
+          ResponseHeadersPolicyId: 67f7725c-6f97-4210-82d7-5512b31e9d03
+        ViewerCertificate:
+          CloudFrontDefaultCertificate: true
+      Tags:
+        - Key: Project
+          Value: verdant-forest-showcase
+
+  BucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref SiteBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: AllowOnlyThisCloudFrontDistribution
+            Effect: Allow
+            Principal:
+              Service: cloudfront.amazonaws.com
+            Action: s3:GetObject
+            Resource: !Sub '${SiteBucket.Arn}/*'
+            Condition:
+              StringEquals:
+                AWS:SourceArn: !Sub 'arn:${AWS::Partition}:cloudfront::${AWS::AccountId}:distribution/${Distribution}'
+          - Sid: RequireTLS
+            Effect: Deny
+            Principal: '*'
+            Action: s3:*
+            Resource:
+              - !GetAtt SiteBucket.Arn
+              - !Sub '${SiteBucket.Arn}/*'
+            Condition:
+              Bool:
+                aws:SecureTransport: 'false'
+
+Outputs:
+  BucketName:
+    Value: !Ref SiteBucket
+  DistributionId:
+    Value: !Ref Distribution
+  SiteUrl:
+    Value: !Sub 'https://${Distribution.DomainName}'

@@ -110,7 +110,8 @@ Poly Haven texture sets are CC0; Three.js is MIT. See [asset credits](public/cre
 and the dependencies’ own licenses for their terms.
 
 The upstream Sites project identifier has been removed from active configuration.
-There is no deployment from this fork. Historical deployment records in `artifacts/`
+This fork supports [AWS deployment through S3 and CloudFront](docs/aws-deployment.md)
+using `npm run deploy:aws -- --profile lighthouse`. Historical deployment records in `artifacts/`
 and `gates/` describe the author’s project, not this fork. The
 [original README](docs/upstream-readme.md) is retained for context; its relative
 paths refer to the repository root.
