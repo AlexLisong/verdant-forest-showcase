@@ -35,17 +35,13 @@ async function readCssTree(directory) {
   return contents.join("\n");
 }
 
-test("emits the catalog's animation and scrolling utilities", async () => {
+test("emits the forest canvas, touch controls and reduced-motion styles", async () => {
   const css = await readCssTree(path.join(root, "dist"));
 
-  assert.match(css, /--tw-enter-opacity/);
-  assert.match(css, /scrollbar-width:\s*thin/);
-  assert.match(css, /scrollbar-width:\s*none/);
-  assert.match(css, /scrollbar-gutter:\s*stable/);
-  assert.match(css, /scroll-fade-reveal-b/);
-  assert.match(css, /mask-image:/);
-  assert.match(css, /tw-shimmer/);
-  assert.match(css, /prefers-reduced-motion:\s*reduce/);
+  assert.ok(css.includes(".forest-canvas canvas"), "canvas styles");
+  assert.ok(css.includes("touch-action:none"), "canvas gesture handling");
+  assert.ok(css.includes(".touch-flight"), "touch flight controls");
+  assert.ok(/prefers-reduced-motion:\s*reduce/.test(css), "reduced-motion styles");
 });
 
 test("forwards progress semantics to the primitive", async () => {
