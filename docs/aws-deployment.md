@@ -4,6 +4,22 @@ The forest is a static Vinext export served over HTTPS by CloudFront with a priv
 S3 origin. Rendering still happens in the visitor's browser. No application server,
 database, API key, or model service is needed.
 
+**Live showcase: https://d3hrj3r3bjdpnn.cloudfront.net**
+
+| Resource | Value |
+| --- | --- |
+| AWS CLI profile | `lighthouse` |
+| Region | `ca-central-1` |
+| CloudFormation stack | `verdant-forest-showcase` |
+| CloudFront distribution | `E3X2ERCZJP3FM` |
+| S3 bucket | `verdant-forest-showcase-sitebucket-mpbh3u4ij2kd` |
+| Initial deployed source | `0ba4d9476b8202c8c8b714e44e8f9742589604f0` |
+
+Deployed September 14, 2026. CloudFormation completed successfully and CloudFront
+reported `Deployed`. All 29 public files matched the local export byte-for-byte over
+HTTPS. Anonymous direct S3 access returned 403, and the bucket policy is non-public.
+Chrome verification confirmed the fully rendered forest at the public URL.
+
 ## Deploy or update
 
 Prerequisites: Node 22.13+, installed npm dependencies, AWS CLI v2, and an authenticated

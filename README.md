@@ -9,14 +9,16 @@ Leon’s [original demonstration](https://x.com/LexnLin/status/20962630469181976
 describes giving GPT 6 Astra roughly five hours to build the forest.
 That account is the author’s report; this repository makes the resulting code easy to explore.
 
-**[Explore the author’s live forest ↗](https://verdant-forest.lexn8.chatgpt.site)**
+**[Explore this showcase on AWS ↗](https://d3hrj3r3bjdpnn.cloudfront.net)**
+· **[Author’s original demo](https://verdant-forest.lexn8.chatgpt.site)**
 · **[Read the case study](docs/case-study.md)**
 · **[Asset credits](public/credits.txt)**
 
 ![Upstream offline forest survey showing the procedural woodland](artifacts/final-survey-sheet-1.jpg)
 
 *Preview from the original project’s offline scene-data renderer. It is not a browser
-screenshot or a performance benchmark. The live demo above is hosted by the original author.*
+screenshot or a performance benchmark. The AWS showcase and the author’s original
+demo are separate deployments of the same forest.*
 
 ## Run locally
 
