@@ -68,10 +68,27 @@ must be tested with `nginx -t` before reloading.
 ## Migration from S3 and CloudFront
 
 The first deployment used dedicated S3/CloudFront resources. The user chose to
-reuse the already-paid Grove server to avoid separate hosting resources. The old
-CloudFront deployment is retired only after the Linux replacement passes HTTPS,
-asset-integrity, browser, and neighboring-service checks.
+reuse the already-paid Grove server to avoid separate hosting resources. On
+September 14, 2026, the old CloudFormation stack, CloudFront distribution, and
+retained S3 bucket were deleted after the Linux replacement passed HTTPS,
+asset-integrity, browser, and neighboring-service checks. All 29 old static files
+were backed up locally and verified before deletion.
 
 The earlier CloudFormation template and deployment script remain available in Git
 history at commit `0ba4d9476b8202c8c8b714e44e8f9742589604f0`. They are not part of the
 current deployment workflow.
+
+## Verified Linux release
+
+Deployed September 14, 2026: release `20260914T175857Z-9385c963d85c`, source
+`9385c963d85cc2da1a58b9aab60a90108df1296a`.
+
+- TypeScript, production build, five Node tests, nine control checks, and eight
+  deployment-boundary tests passed. GitHub CI also passed.
+- The installed archive contains 30 checksummed files including release identity.
+  All 29 application files matched the local export byte-for-byte over HTTPS.
+- Chrome displayed the fully rendered forest at the new URL.
+- HTTP redirects to HTTPS, missing routes/assets are rejected, and certificate
+  renewal is scheduled.
+- Nginx, Grove and Certbot remained active; Grove, Gather Club, StoryComet, ebooks,
+  Soloop and Teamprint all returned HTTP 200 after deployment.
