@@ -40,6 +40,10 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+/.aws-local/
+/.build/
+deploy/__pycache__/
+tests/__pycache__/
 
 # Reproducible native geometry QA intermediates
 artifacts/scene-data/

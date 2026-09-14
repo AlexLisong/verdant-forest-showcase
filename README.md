@@ -9,7 +9,7 @@ Leon’s [original demonstration](https://x.com/LexnLin/status/20962630469181976
 describes giving GPT 6 Astra roughly five hours to build the forest.
 That account is the author’s report; this repository makes the resulting code easy to explore.
 
-**[Explore this showcase on AWS ↗](https://d3hrj3r3bjdpnn.cloudfront.net)**
+**[Explore the live forest ↗](https://forest.whyjs.com)**
 · **[Author’s original demo](https://verdant-forest.lexn8.chatgpt.site)**
 · **[Read the case study](docs/case-study.md)**
 · **[Asset credits](public/credits.txt)**
@@ -112,8 +112,8 @@ Poly Haven texture sets are CC0; Three.js is MIT. See [asset credits](public/cre
 and the dependencies’ own licenses for their terms.
 
 The upstream Sites project identifier has been removed from active configuration.
-This fork supports [AWS deployment through S3 and CloudFront](docs/aws-deployment.md)
-using `npm run deploy:aws -- --profile lighthouse`. Historical deployment records in `artifacts/`
+This fork uses [the existing Linux server with Nginx](docs/aws-deployment.md),
+deployed with AWS CLI profile `lighthouse`. Historical deployment records in `artifacts/`
 and `gates/` describe the author’s project, not this fork. The
 [original README](docs/upstream-readme.md) is retained for context; its relative
 paths refer to the repository root.

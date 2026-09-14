@@ -116,7 +116,7 @@ The `PLAN.md`, `GATES.md`, `gates/`, and existing `artifacts/` files are upstrea
 historical records. Current CI results belong to this fork. The author's public
 demo is linked for convenience; this repository does not manage that deployment.
 This fork also provides a separate [AWS deployment](aws-deployment.md), using a
-static export and a dedicated private S3 origin behind CloudFront.
+static export served by Nginx on the existing Linux server.
 
 ## Showcase verification · September 14, 2026
 

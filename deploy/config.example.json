@@ -1,0 +1,8 @@
+{
+  "profile": "your-profile",
+  "region": "us-east-1",
+  "account": "000000000000",
+  "instance": "i-00000000000000000",
+  "hostname": "forest.example.com",
+  "sshUser": "ubuntu"
+}

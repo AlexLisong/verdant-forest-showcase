@@ -1,66 +1,77 @@
-# AWS deployment
+# AWS deployment on the existing Linux server
 
-The forest is a static Vinext export served over HTTPS by CloudFront with a private
-S3 origin. Rendering still happens in the visitor's browser. No application server,
-database, API key, or model service is needed.
+**Live showcase: https://forest.whyjs.com**
 
-**Live showcase: https://d3hrj3r3bjdpnn.cloudfront.net**
-
-| Resource | Value |
-| --- | --- |
-| AWS CLI profile | `lighthouse` |
-| Region | `ca-central-1` |
-| CloudFormation stack | `verdant-forest-showcase` |
-| CloudFront distribution | `E3X2ERCZJP3FM` |
-| S3 bucket | `verdant-forest-showcase-sitebucket-mpbh3u4ij2kd` |
-| Initial deployed source | `0ba4d9476b8202c8c8b714e44e8f9742589604f0` |
-
-Deployed September 14, 2026. CloudFormation completed successfully and CloudFront
-reported `Deployed`. All 29 public files matched the local export byte-for-byte over
-HTTPS. Anonymous direct S3 access returned 403, and the bucket policy is non-public.
-Chrome verification confirmed the fully rendered forest at the public URL.
+The forest shares the existing Linux EC2 server used by Grove. Nginx serves its
+static files through a separate HTTPS virtual host. It needs no server GPU,
+application process, database, or additional virtual machine. Each visitor's browser
+uses that visitor's GPU and memory to render the scene.
 
 ## Deploy or update
 
-Prerequisites: Node 22.13+, installed npm dependencies, AWS CLI v2, and an authenticated
-AWS profile with permission to manage this project's CloudFormation, S3, and CloudFront resources.
+Requirements: Node 22.13+, npm dependencies, Python 3, AWS CLI v2, the `lighthouse`
+profile, and the existing server's SSH key. The server uses Python 3.12 and an existing
+Certbot account. SSH host keys must already be trusted.
+
+Copy `deploy/config.example.json` to ignored `.aws-local/config.json` and fill in
+profile, region, account, existing instance ID, SSH user, and hostname. Keep the SSH
+key outside the repository. Commit and push the source, then run:
 
 ```bash
-npm run deploy:aws -- --profile lighthouse
+npm run deploy:aws -- --config .aws-local/config.json --key /path/to/existing-key.pem
 ```
 
-Defaults: region `ca-central-1`, stack `verdant-forest-showcase`. Override with
-`--region` and `--stack` when deploying a separate environment. The command:
+The command verifies AWS identity, instance state, and DNS; checks that source is
+committed; runs TypeScript, application tests, a production build and deployment
+boundary tests; and prepares the static export. It uploads a checksummed archive
+and installer over SSH with strict host-key checking.
 
-1. Builds from source using `output: "export"`.
-2. Stages `dist/client` into `dist/aws`, excluding framework build metadata.
-3. Validates and creates/updates [`infra/aws.yaml`](../infra/aws.yaml).
-4. Uploads textures and hashed scripts before publishing HTML.
-5. Invalidates CloudFront and waits for the invalidation to complete.
-6. Prints the public URL, bucket name, and distribution ID.
+Only prepared `dist/aws` files are packaged. The Node/Worker server bundles, private
+configuration, keys, framework metadata and source maps are excluded. The eight
+Python boundary checks run in CI without contacting AWS or changing Nginx.
 
-Only `dist/aws` is uploaded. Server bundles, `.openai` metadata, development files,
-and source maps are excluded. AWS credentials stay in the local AWS configuration.
+## Server layout
 
-## Infrastructure and caching
+| Resource | Location |
+| --- | --- |
+| Release directories | `/opt/verdant-forest/releases/` |
+| Active release | `/opt/verdant-forest/current` |
+| Retained hashed assets | `/opt/verdant-forest/shared/assets/` |
+| Nginx virtual host | `/etc/nginx/sites-available/forest.whyjs.com` |
+| Certificate | `/etc/letsencrypt/live/forest.whyjs.com/` |
+| Certificate renewal hook | `/etc/letsencrypt/renewal-hooks/deploy/verdant-forest.sh` |
+| Local deployment receipt | `.build/deploy/last-deployment.json` (ignored) |
 
-- S3 encryption and public-access blocking are enabled. There is no public bucket website.
-- Origin Access Control permits reads only from this CloudFront distribution.
-- HTTP redirects to HTTPS. CloudFront applies its managed security headers policy.
-- Hashed JavaScript/CSS assets cache for a year; textures cache for an hour; HTML
-  revalidates. Every deployment invalidates all CloudFront paths.
-- Old hashed assets are retained so an already-open tab can continue loading them.
-- CloudFront uses `PriceClass_100`. AWS storage, request, and transfer charges apply.
-- CloudFormation retains the S3 bucket if the stack is deleted, preserving deployed files.
+The installer validates archive paths, every file checksum, and release identity.
+It refuses to overwrite another application's hostname or unmanaged Nginx config.
+Releases activate with an atomic symlink change, followed by Nginx validation and
+reload. HTTPS verification checks the new release; failure restores the previous
+symlink and virtual-host configuration.
 
-## Inspect the deployment
+HTTP redirects to HTTPS. Nginx serves JavaScript with the correct MIME types,
+compresses text assets, and revalidates browser caches. Missing files return real
+404 responses. No catch-all HTML response disguises missing scripts or textures.
+Hashed modules from earlier releases stay reachable under `/assets/`, allowing a
+browser that loaded earlier HTML to finish loading while a new release activates.
 
-```bash
-aws cloudformation describe-stacks \
-  --stack-name verdant-forest-showcase \
-  --profile lighthouse --region ca-central-1 \
-  --query 'Stacks[0].Outputs'
-```
+## Verify and roll back
 
-To roll back content, check out the desired source revision and rerun the deployment
-command. Retain the same infrastructure template unless intentionally changing resources.
+`https://forest.whyjs.com/release.json` identifies the deployed commit and release.
+Confirm the rendered forest in a browser, compare asset checksums, and verify Grove
+and the neighboring sites remain healthy after deployment.
+
+Previous releases stay under `/opt/verdant-forest/releases/`. For a content rollback,
+atomically repoint `current` to a previously verified release and recheck the public
+release identity. The Nginx document root remains the same. Configuration changes
+must be tested with `nginx -t` before reloading.
+
+## Migration from S3 and CloudFront
+
+The first deployment used dedicated S3/CloudFront resources. The user chose to
+reuse the already-paid Grove server to avoid separate hosting resources. The old
+CloudFront deployment is retired only after the Linux replacement passes HTTPS,
+asset-integrity, browser, and neighboring-service checks.
+
+The earlier CloudFormation template and deployment script remain available in Git
+history at commit `0ba4d9476b8202c8c8b714e44e8f9742589604f0`. They are not part of the
+current deployment workflow.
